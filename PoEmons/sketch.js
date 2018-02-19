@@ -37,7 +37,7 @@ function draw() {
 TODO:
 -calculate xp multiplier
 -add currentXp[] - nextLevelXp[]
--triple array?? playerLevel [1-100][currentXp][nextLevelXp];
+-triple array?? playerLevel [1-100][currentXp][nextLevelXp]; or object with current/next xp on each level?
 -rawxp = xpperhour * xpmultiplier
 -100 - current level, how much xp for 100?
 -effective difference and xpmultiplier will have to be FUNCTIONS! to call each time for each level till 100
