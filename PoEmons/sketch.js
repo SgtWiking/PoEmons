@@ -1,4 +1,5 @@
 "use strict";
+
 function setup() {
 
 	var playerLevel = [];
@@ -25,7 +26,7 @@ function setup() {
 	} else {
 		xpMultiplier = 2;
 	}
-	console.log (xpMultiplier);
+	console.log(xpMultiplier);
 
 }
 
