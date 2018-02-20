@@ -30,6 +30,10 @@ function draw() {
 		zoneLevel = zoneSlider.value();
 		xpPerHour = xpSlider.value()*10000000;
 		timeArray = calculateTime(currentLevel,zoneLevel,xpPerHour,xpToGain);
+		text('Safe Zone: ± '+safeZone(currentLevel)+ ' levels.',20,130);
+		text('Exp Gained:'+Math.round(xpMultiplier(currentLevel,zoneLevel)*100*10)/10+ '%',20,170);
+		text('Raw Exp:'+Math.round(calculateRawXp(currentLevel,zoneLevel,xpPerHour)/1000000)+'M',20,210);
+		text('Time To 100: ' +Math.round(timeArray.reduce(reducer))+ ' hours.',20,250);
 		//TEST
 		console.log('==========================');
 		console.log('Safe Zone:'+safeZone(currentLevel));
@@ -45,8 +49,6 @@ function draw() {
 	text("Player Level: " +currentLevel, lvlSlider.x * 2 + lvlSlider.width, 35);
 	text("Zone Level: " +zoneLevel, zoneSlider.x * 2 + zoneSlider.width, 65);
 	text("XP Per Hour: " +xpPerHour/1000000 + 'M', xpSlider.x * 2 + xpSlider.width, 95);
-	text("DETO SEND HELP SHIT IS ON FIRE YOOO" , 20, 200);
-	text("(●´ω｀●)ゞ(●´ω｀●)ゞ(●´ω｀●)ゞ(●´ω｀●)ゞ" , 20, 230);
 
 	//DONE: Function that calculates RAW xp before xp multiplier
 	//TODO: Make a function that calculates xp needed till target level and throw it in array.
