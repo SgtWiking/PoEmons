@@ -1,5 +1,7 @@
 "use strict";
 var lvlSlider,zoneSlider,xpSlider;
+var currentLevel,zoneLevel,xpPerHour;
+var timeArray;
 
 function setup() {
 
@@ -23,16 +25,15 @@ function draw() {
 		clear();
 		background(150,200,200);
 	}
-	var currentLevel = lvlSlider.value();
-	var zoneLevel = zoneSlider.value();
-	var xpPerHour = xpSlider.value();
+	currentLevel = lvlSlider.value();
+	zoneLevel = zoneSlider.value();
+	xpPerHour = xpSlider.value();
 	text("Player Level: " +currentLevel, lvlSlider.x * 2 + lvlSlider.width, 35);
   text("Zone Level: " +zoneLevel, zoneSlider.x * 2 + zoneSlider.width, 65);
   text("XP Per Hour: " +xpPerHour, xpSlider.x * 2 + xpSlider.width, 95);
 
-	var timeArray;
 	timeArray = calculateTime(currentLevel,zoneLevel,xpPerHour,playerLevels,xpToGain);
-	console.log(timeArray);
+	//console.log(timeArray);
 
 
 	//TODO: Function that calculates RAW xp before xp multiplier
