@@ -2,12 +2,13 @@
 var lvlSlider,zoneSlider,xpSlider;
 var currentLevel,zoneLevel,xpPerHour;
 var timeArray;
+var globalbackground = [255,55,55];
 
 function setup() {
 
 	createCanvas(840,525);
-	background(150,200,200);
-	frameRate(60);
+	background(globalbackground);
+	frameRate(5);
 	textSize(32);
 
 	lvlSlider = createSlider(1, 100, 1);
@@ -23,22 +24,30 @@ function draw() {
 
 	if (currentLevel != lvlSlider.value() || zoneLevel != zoneSlider.value() || xpPerHour != xpSlider.value()) {
 		clear();
-		background(150,200,200);
+		background(globalbackground);
+		currentLevel = lvlSlider.value();
+		zoneLevel = zoneSlider.value();
+		xpPerHour = xpSlider.value();
+		//timeArray = calculateTime(currentLevel,zoneLevel,xpPerHour,xpToGain);
+		//TEST
+		console.log('==========================');
+		console.log('Safe Zone:'+safeZone(currentLevel));
+		console.log('Effective Diff:'+effectiveDifference(currentLevel,zoneLevel));
+		console.log('xpMulti:'+xpMultiplier(currentLevel,zoneLevel));
+		console.log('rawXp:'+calculateRawXp(currentLevel,zoneLevel,xpPerHour));
+		console.log(timeArray);
+		console.log('==========================');
+		//TEST
 	}
-	currentLevel = lvlSlider.value();
-	zoneLevel = zoneSlider.value();
-	xpPerHour = xpSlider.value();
+
 	text("Player Level: " +currentLevel, lvlSlider.x * 2 + lvlSlider.width, 35);
   text("Zone Level: " +zoneLevel, zoneSlider.x * 2 + zoneSlider.width, 65);
   text("XP Per Hour: " +xpPerHour, xpSlider.x * 2 + xpSlider.width, 95);
+	text("DETO SEND HELP SHIT IS ON FIRE YOOO" , 20, 200);
+	text("(●´ω｀●)ゞ(●´ω｀●)ゞ(●´ω｀●)ゞ(●´ω｀●)ゞ" , 20, 230);
 
-	timeArray = calculateTime(currentLevel,zoneLevel,xpPerHour,playerLevels,xpToGain);
-	//console.log(timeArray);
-
-
-	//TODO: Function that calculates RAW xp before xp multiplier
+	//DONE: Function that calculates RAW xp before xp multiplier
 	//TODO: Make a function that calculates xp needed till target level and throw it in array.
-	//TODO: Make a pressable button that calculates xp till 100
 	//DONE: Figure out how to clear screen when moving sliders.
 
 }

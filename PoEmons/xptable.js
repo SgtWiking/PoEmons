@@ -1,8 +1,8 @@
-//array with player levels 1 to 100
+/*array with player levels 1 to 100
 var playerLevels = [];
 for (let i = 0; i < 100; i++) {
   playerLevels[i] = i + 1;
-}
+}*/
 //xp to be gained from 1 to 100
 var xpToGain = [
 '525',
