@@ -17,3 +17,9 @@ function xpMultiplierHigh (parLevel,parZone) {
   let temp = xpMultiplierLow(parLevel,parZone) * 1/(1+0.1*(parLevel-94));
   return max(temp,0.01)
 }
+function calculateRawXp(currentLevel,zoneLevel){
+  //TODO
+}
+function calculateTime(currentLevel,zoneLevel,xpPerHour,playerLevels,xpToGain){
+  //TODO
+}

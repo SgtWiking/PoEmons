@@ -4,8 +4,9 @@ var lvlSlider,zoneSlider,xpSlider;
 function setup() {
 
 	createCanvas(840,525);
-	background(155);
+	background(150,200,200);
 	frameRate(60);
+	textSize(32);
 
 	lvlSlider = createSlider(1, 100, 1);
   lvlSlider.position(20, 20);
@@ -18,6 +19,10 @@ function setup() {
 
 function draw() {
 
+	if (currentLevel != lvlSlider.value() || zoneLevel != zoneSlider.value() || xpPerHour != xpSlider.value()) {
+		clear();
+		background(150,200,200);
+	}
 	var currentLevel = lvlSlider.value();
 	var zoneLevel = zoneSlider.value();
 	var xpPerHour = xpSlider.value();
@@ -25,18 +30,14 @@ function draw() {
   text("Zone Level: " +zoneLevel, zoneSlider.x * 2 + zoneSlider.width, 65);
   text("XP Per Hour: " +xpPerHour, xpSlider.x * 2 + xpSlider.width, 95);
 
-	//TODO: Make a function that calculates xp needed till target level.
-	//TODO: Make a pressable button that calculates xp till targeted level.
-	//TODO: Figure out how to clear screen when moving sliders.
+	var timeArray;
+	timeArray = calculateTime(currentLevel,zoneLevel,xpPerHour,playerLevels,xpToGain);
+	console.log(timeArray);
+
+
+	//TODO: Function that calculates RAW xp before xp multiplier
+	//TODO: Make a function that calculates xp needed till target level and throw it in array.
+	//TODO: Make a pressable button that calculates xp till 100
+	//DONE: Figure out how to clear screen when moving sliders.
 
 }
-
-/*
-TODO:
-//-calculate xp multiplier
-//-add currentXp[] - nextLevelXp[]
-//-triple array?? playerLevels [1-100][currentXp][nextLevelXp]; or object with current/next xp on each level?
--rawxp = xpperhour * xpmultiplier
--100 - current level, how much xp for 100?
--effective difference and xpmultiplier will have to be FUNCTIONS! to call each time for each level till 100
-*/
