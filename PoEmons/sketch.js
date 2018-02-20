@@ -2,12 +2,8 @@
 
 function setup() {
 
-	var playerLevel = [];
-	for (let i = 0; i < 100; i++) {
-		playerLevel[i] = i + 1;
-	}
-	//console.log(playerLevel);
 
+	console.log(xpToGain);
 	//safe zone based on current level
 	var currentLevel = 32;
 	var safeZone = floor(3 + currentLevel / 16);
@@ -26,7 +22,7 @@ function setup() {
 	} else {
 		xpMultiplier = 2;
 	}
-	console.log(xpMultiplier);
+	console.log(5);
 
 }
 
@@ -38,7 +34,7 @@ function draw() {
 TODO:
 -calculate xp multiplier
 -add currentXp[] - nextLevelXp[]
--triple array?? playerLevel [1-100][currentXp][nextLevelXp]; or object with current/next xp on each level?
+-triple array?? playerLevels [1-100][currentXp][nextLevelXp]; or object with current/next xp on each level?
 -rawxp = xpperhour * xpmultiplier
 -100 - current level, how much xp for 100?
 -effective difference and xpmultiplier will have to be FUNCTIONS! to call each time for each level till 100
