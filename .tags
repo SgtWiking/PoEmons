@@ -1,0 +1,757 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Add	.\PoEmons\libraries\p5.sound.js	/^  Add.prototype.fade = Signal.prototype.fade;$/;"	c
+Add.add	.\PoEmons\libraries\p5.sound.js	/^  Add.prototype.add = Signal.prototype.add;$/;"	m
+Add.fade	.\PoEmons\libraries\p5.sound.js	/^  Add.prototype.fade = Signal.prototype.fade;$/;"	m
+Add.mult	.\PoEmons\libraries\p5.sound.js	/^  Add.prototype.mult = Signal.prototype.mult;$/;"	m
+Add.scale	.\PoEmons\libraries\p5.sound.js	/^  Add.prototype.scale = Signal.prototype.scale;$/;"	m
+Add.setInput	.\PoEmons\libraries\p5.sound.js	/^  Add.prototype.setInput = Signal.prototype.setInput;$/;"	m
+AudioBufferSourceNode	.\PoEmons\libraries\p5.sound.js	/^    AudioBufferSourceNode.prototype.start = AudioBufferSourceNode.prototype.noteGrainOn;$/;"	c
+AudioBufferSourceNode.start	.\PoEmons\libraries\p5.sound.js	/^    AudioBufferSourceNode.prototype.start = AudioBufferSourceNode.prototype.noteGrainOn;$/;"	m
+AudioBufferSourceNode.stop	.\PoEmons\libraries\p5.sound.js	/^    AudioBufferSourceNode.prototype.stop = AudioBufferSourceNode.prototype.noteOff;$/;"	m
+AudioContext	.\PoEmons\libraries\p5.sound.js	/^      AudioContext.prototype.internal_createGain = AudioContext.prototype.createGain;$/;"	c
+AudioContext.createBiquadFilter	.\PoEmons\libraries\p5.sound.js	/^      AudioContext.prototype.createBiquadFilter = function () {$/;"	m
+AudioContext.createBufferSource	.\PoEmons\libraries\p5.sound.js	/^      AudioContext.prototype.createBufferSource = function () {$/;"	m
+AudioContext.createDelay	.\PoEmons\libraries\p5.sound.js	/^      AudioContext.prototype.createDelay = function (maxDelayTime) {$/;"	m
+AudioContext.createDelay	.\PoEmons\libraries\p5.sound.js	/^    AudioContext.prototype.createDelay = AudioContext.prototype.createDelayNode;$/;"	m
+AudioContext.createDynamicsCompressor	.\PoEmons\libraries\p5.sound.js	/^      AudioContext.prototype.createDynamicsCompressor = function () {$/;"	m
+AudioContext.createGain	.\PoEmons\libraries\p5.sound.js	/^      AudioContext.prototype.createGain = function () {$/;"	m
+AudioContext.createGain	.\PoEmons\libraries\p5.sound.js	/^    AudioContext.prototype.createGain = AudioContext.prototype.createGainNode;$/;"	m
+AudioContext.createOscillator	.\PoEmons\libraries\p5.sound.js	/^        AudioContext.prototype.createOscillator = function () {$/;"	m
+AudioContext.createPeriodicWave	.\PoEmons\libraries\p5.sound.js	/^    AudioContext.prototype.createPeriodicWave = AudioContext.prototype.createWaveTable;$/;"	m
+AudioContext.internal_createBiquadFilter	.\PoEmons\libraries\p5.sound.js	/^      AudioContext.prototype.internal_createBiquadFilter = AudioContext.prototype.createBiquadFilter;$/;"	m
+AudioContext.internal_createBufferSource	.\PoEmons\libraries\p5.sound.js	/^      AudioContext.prototype.internal_createBufferSource = AudioContext.prototype.createBufferSource;$/;"	m
+AudioContext.internal_createDelay	.\PoEmons\libraries\p5.sound.js	/^      AudioContext.prototype.internal_createDelay = AudioContext.prototype.createDelay;$/;"	m
+AudioContext.internal_createDynamicsCompressor	.\PoEmons\libraries\p5.sound.js	/^      AudioContext.prototype.internal_createDynamicsCompressor = AudioContext.prototype.createDynamicsCompressor;$/;"	m
+AudioContext.internal_createGain	.\PoEmons\libraries\p5.sound.js	/^      AudioContext.prototype.internal_createGain = AudioContext.prototype.createGain;$/;"	m
+AudioContext.internal_createOscillator	.\PoEmons\libraries\p5.sound.js	/^        AudioContext.prototype.internal_createOscillator = AudioContext.prototype.createOscillator;$/;"	m
+AudioContext.node.start	.\PoEmons\libraries\p5.sound.js	/^            node.start = function (when) {$/;"	c
+AudioContext.node.start	.\PoEmons\libraries\p5.sound.js	/^          node.start = function (when, offset, duration) {$/;"	f
+AudioNode	.\PoEmons\libraries\p5.sound.js	/^  AudioNode.prototype._nativeConnect = AudioNode.prototype.connect;$/;"	c
+AudioNode._nativeConnect	.\PoEmons\libraries\p5.sound.js	/^  AudioNode.prototype._nativeConnect = AudioNode.prototype.connect;$/;"	m
+AudioNode.chain	.\PoEmons\libraries\p5.sound.js	/^  AudioNode.prototype.chain = Tone.prototype.chain;$/;"	m
+AudioNode.connect	.\PoEmons\libraries\p5.sound.js	/^  AudioNode.prototype.connect = function (B, outNum, inNum) {$/;"	m
+AudioNode.fan	.\PoEmons\libraries\p5.sound.js	/^  AudioNode.prototype.fan = Tone.prototype.fan;$/;"	m
+AudioNode.noGC	.\PoEmons\libraries\p5.sound.js	/^  AudioNode.prototype.noGC = function () {$/;"	m
+Mult	.\PoEmons\libraries\p5.sound.js	/^  Mult.prototype.fade = Signal.prototype.fade;$/;"	c
+Mult.add	.\PoEmons\libraries\p5.sound.js	/^  Mult.prototype.add = Signal.prototype.add;$/;"	m
+Mult.fade	.\PoEmons\libraries\p5.sound.js	/^  Mult.prototype.fade = Signal.prototype.fade;$/;"	m
+Mult.mult	.\PoEmons\libraries\p5.sound.js	/^  Mult.prototype.mult = Signal.prototype.mult;$/;"	m
+Mult.scale	.\PoEmons\libraries\p5.sound.js	/^  Mult.prototype.scale = Signal.prototype.scale;$/;"	m
+Mult.setInput	.\PoEmons\libraries\p5.sound.js	/^  Mult.prototype.setInput = Signal.prototype.setInput;$/;"	m
+OscillatorNode	.\PoEmons\libraries\p5.sound.js	/^    OscillatorNode.prototype.start = OscillatorNode.prototype.noteOn;$/;"	c
+OscillatorNode.setPeriodicWave	.\PoEmons\libraries\p5.sound.js	/^    OscillatorNode.prototype.setPeriodicWave = OscillatorNode.prototype.setWaveTable;$/;"	m
+OscillatorNode.start	.\PoEmons\libraries\p5.sound.js	/^    OscillatorNode.prototype.start = OscillatorNode.prototype.noteOn;$/;"	m
+OscillatorNode.stop	.\PoEmons\libraries\p5.sound.js	/^    OscillatorNode.prototype.stop = OscillatorNode.prototype.noteOff;$/;"	m
+Scale	.\PoEmons\libraries\p5.sound.js	/^  Scale.prototype.fade = Signal.prototype.fade;$/;"	c
+Scale.add	.\PoEmons\libraries\p5.sound.js	/^  Scale.prototype.add = Signal.prototype.add;$/;"	m
+Scale.fade	.\PoEmons\libraries\p5.sound.js	/^  Scale.prototype.fade = Signal.prototype.fade;$/;"	m
+Scale.mult	.\PoEmons\libraries\p5.sound.js	/^  Scale.prototype.mult = Signal.prototype.mult;$/;"	m
+Scale.scale	.\PoEmons\libraries\p5.sound.js	/^  Scale.prototype.scale = Signal.prototype.scale;$/;"	m
+Scale.setInput	.\PoEmons\libraries\p5.sound.js	/^  Scale.prototype.setInput = Signal.prototype.setInput;$/;"	m
+Signal	.\PoEmons\libraries\p5.sound.js	/^  Signal.prototype.fade = Signal.prototype.linearRampToValueAtTime;$/;"	c
+Signal.add	.\PoEmons\libraries\p5.sound.js	/^  Signal.prototype.add = function (num) {$/;"	m
+Signal.fade	.\PoEmons\libraries\p5.sound.js	/^  Signal.prototype.fade = Signal.prototype.linearRampToValueAtTime;$/;"	m
+Signal.mult	.\PoEmons\libraries\p5.sound.js	/^  Signal.prototype.mult = function (num) {$/;"	m
+Signal.scale	.\PoEmons\libraries\p5.sound.js	/^  Signal.prototype.scale = function (inMin, inMax, outMin, outMax) {$/;"	m
+Signal.setInput	.\PoEmons\libraries\p5.sound.js	/^  Signal.prototype.setInput = function (_input) {$/;"	m
+TempConstructor	.\PoEmons\libraries\p5.sound.js	/^    TempConstructor.prototype = parent.prototype;$/;"	c
+Tone	.\PoEmons\libraries\p5.sound.js	/^  Tone.prototype.set = function (params, value, rampTime) {$/;"	c
+Tone.Add	.\PoEmons\libraries\p5.sound.js	/^  Tone.Add = function (value) {$/;"	c
+Tone.Add.Tone	.\PoEmons\libraries\p5.sound.js	/^    Tone.prototype.dispose.call(this);$/;"	c
+Tone.Add.dispose	.\PoEmons\libraries\p5.sound.js	/^  Tone.Add.prototype.dispose = function () {$/;"	m
+Tone.Clock	.\PoEmons\libraries\p5.sound.js	/^  Tone.Clock = function () {$/;"	c
+Tone.Clock._loop	.\PoEmons\libraries\p5.sound.js	/^  Tone.Clock.prototype._loop = function (time) {$/;"	m
+Tone.Clock.defaults.callback	.\PoEmons\libraries\p5.sound.js	/^    'callback': Tone.noOp,$/;"	p
+Tone.Clock.dispose	.\PoEmons\libraries\p5.sound.js	/^  Tone.Clock.prototype.dispose = function () {$/;"	m
+Tone.Clock.getStateAtTime	.\PoEmons\libraries\p5.sound.js	/^  Tone.Clock.prototype.getStateAtTime = function (time) {$/;"	m
+Tone.Clock.pause	.\PoEmons\libraries\p5.sound.js	/^  Tone.Clock.prototype.pause = function (time) {$/;"	m
+Tone.Clock.start	.\PoEmons\libraries\p5.sound.js	/^  Tone.Clock.prototype.start = function (time, offset) {$/;"	m
+Tone.Clock.stop	.\PoEmons\libraries\p5.sound.js	/^  Tone.Clock.prototype.stop = function (time) {$/;"	m
+Tone.Gain	.\PoEmons\libraries\p5.sound.js	/^  Tone.Gain = function () {$/;"	c
+Tone.Gain.Tone.Param	.\PoEmons\libraries\p5.sound.js	/^    Tone.Param.prototype.dispose.call(this);$/;"	c
+Tone.Gain.defaults.convert	.\PoEmons\libraries\p5.sound.js	/^    'convert': true$/;"	p
+Tone.Gain.defaults.gain	.\PoEmons\libraries\p5.sound.js	/^    'gain': 1,$/;"	p
+Tone.Gain.dispose	.\PoEmons\libraries\p5.sound.js	/^  Tone.Gain.prototype.dispose = function () {$/;"	m
+Tone.Multiply	.\PoEmons\libraries\p5.sound.js	/^  Tone.Multiply = function (value) {$/;"	c
+Tone.Multiply.Tone	.\PoEmons\libraries\p5.sound.js	/^    Tone.prototype.dispose.call(this);$/;"	c
+Tone.Multiply.dispose	.\PoEmons\libraries\p5.sound.js	/^  Tone.Multiply.prototype.dispose = function () {$/;"	m
+Tone.Param	.\PoEmons\libraries\p5.sound.js	/^  Tone.Param = function () {$/;"	c
+Tone.Param.Tone	.\PoEmons\libraries\p5.sound.js	/^    Tone.prototype.dispose.call(this);$/;"	c
+Tone.Param._fromUnits	.\PoEmons\libraries\p5.sound.js	/^  Tone.Param.prototype._fromUnits = function (val) {$/;"	m
+Tone.Param._minOutput	.\PoEmons\libraries\p5.sound.js	/^  Tone.Param.prototype._minOutput = 0.00001;$/;"	m
+Tone.Param._toUnits	.\PoEmons\libraries\p5.sound.js	/^  Tone.Param.prototype._toUnits = function (val) {$/;"	m
+Tone.Param.cancelScheduledValues	.\PoEmons\libraries\p5.sound.js	/^  Tone.Param.prototype.cancelScheduledValues = function (startTime) {$/;"	m
+Tone.Param.defaults.units	.\PoEmons\libraries\p5.sound.js	/^    'units': Tone.Type.Default,$/;"	p
+Tone.Param.dispose	.\PoEmons\libraries\p5.sound.js	/^  Tone.Param.prototype.dispose = function () {$/;"	m
+Tone.Param.exponentialRampToValue	.\PoEmons\libraries\p5.sound.js	/^  Tone.Param.prototype.exponentialRampToValue = function (value, rampTime) {$/;"	m
+Tone.Param.exponentialRampToValueAtTime	.\PoEmons\libraries\p5.sound.js	/^  Tone.Param.prototype.exponentialRampToValueAtTime = function (value, endTime) {$/;"	m
+Tone.Param.linearRampToValue	.\PoEmons\libraries\p5.sound.js	/^  Tone.Param.prototype.linearRampToValue = function (value, rampTime) {$/;"	m
+Tone.Param.linearRampToValueAtTime	.\PoEmons\libraries\p5.sound.js	/^  Tone.Param.prototype.linearRampToValueAtTime = function (value, endTime) {$/;"	m
+Tone.Param.rampTo	.\PoEmons\libraries\p5.sound.js	/^  Tone.Param.prototype.rampTo = function (value, rampTime) {$/;"	m
+Tone.Param.setRampPoint	.\PoEmons\libraries\p5.sound.js	/^  Tone.Param.prototype.setRampPoint = function (now) {$/;"	m
+Tone.Param.setTargetAtTime	.\PoEmons\libraries\p5.sound.js	/^  Tone.Param.prototype.setTargetAtTime = function (value, startTime, timeConstant) {$/;"	m
+Tone.Param.setValueAtTime	.\PoEmons\libraries\p5.sound.js	/^  Tone.Param.prototype.setValueAtTime = function (value, time) {$/;"	m
+Tone.Param.setValueCurveAtTime	.\PoEmons\libraries\p5.sound.js	/^  Tone.Param.prototype.setValueCurveAtTime = function (values, startTime, duration) {$/;"	m
+Tone.Scale	.\PoEmons\libraries\p5.sound.js	/^  Tone.Scale = function (outputMin, outputMax) {$/;"	c
+Tone.Scale.Tone	.\PoEmons\libraries\p5.sound.js	/^    Tone.prototype.dispose.call(this);$/;"	c
+Tone.Scale._setRange	.\PoEmons\libraries\p5.sound.js	/^  Tone.Scale.prototype._setRange = function () {$/;"	m
+Tone.Scale.dispose	.\PoEmons\libraries\p5.sound.js	/^  Tone.Scale.prototype.dispose = function () {$/;"	m
+Tone.Signal	.\PoEmons\libraries\p5.sound.js	/^  Tone.Signal = function () {$/;"	c
+Tone.Signal.Tone.Param	.\PoEmons\libraries\p5.sound.js	/^    Tone.Param.prototype.dispose.call(this);$/;"	c
+Tone.Signal.connect	.\PoEmons\libraries\p5.sound.js	/^  Tone.Signal.prototype.connect = Tone.SignalBase.prototype.connect;$/;"	m
+Tone.Signal.defaults.units	.\PoEmons\libraries\p5.sound.js	/^    'units': Tone.Type.Default,$/;"	p
+Tone.Signal.defaults.value	.\PoEmons\libraries\p5.sound.js	/^    'value': 0,$/;"	p
+Tone.Signal.dispose	.\PoEmons\libraries\p5.sound.js	/^  Tone.Signal.prototype.dispose = function () {$/;"	m
+Tone.SignalBase	.\PoEmons\libraries\p5.sound.js	/^  Tone.SignalBase = function () {$/;"	f
+Tone.SignalBase	.\PoEmons\libraries\p5.sound.js	/^  Tone.SignalBase.prototype.connect = function (node, outputNumber, inputNumber) {$/;"	c
+Tone.SignalBase.connect	.\PoEmons\libraries\p5.sound.js	/^  Tone.SignalBase.prototype.connect = function (node, outputNumber, inputNumber) {$/;"	m
+Tone.State.Paused	.\PoEmons\libraries\p5.sound.js	/^    Paused: 'paused'$/;"	p
+Tone.State.Started	.\PoEmons\libraries\p5.sound.js	/^    Started: 'started',$/;"	p
+Tone.State.Stopped	.\PoEmons\libraries\p5.sound.js	/^    Stopped: 'stopped',$/;"	p
+Tone.Timeline	.\PoEmons\libraries\p5.sound.js	/^  Tone.Timeline = function () {$/;"	c
+Tone.Timeline.Tone	.\PoEmons\libraries\p5.sound.js	/^    Tone.prototype.dispose.call(this);$/;"	c
+Tone.Timeline._iterate	.\PoEmons\libraries\p5.sound.js	/^  Tone.Timeline.prototype._iterate = function (callback, lowerBound, upperBound) {$/;"	m
+Tone.Timeline._search	.\PoEmons\libraries\p5.sound.js	/^  Tone.Timeline.prototype._search = function (time) {$/;"	m
+Tone.Timeline.addEvent	.\PoEmons\libraries\p5.sound.js	/^  Tone.Timeline.prototype.addEvent = function (event) {$/;"	m
+Tone.Timeline.cancel	.\PoEmons\libraries\p5.sound.js	/^  Tone.Timeline.prototype.cancel = function (after) {$/;"	m
+Tone.Timeline.cancelBefore	.\PoEmons\libraries\p5.sound.js	/^  Tone.Timeline.prototype.cancelBefore = function (time) {$/;"	m
+Tone.Timeline.defaults.memory	.\PoEmons\libraries\p5.sound.js	/^  Tone.Timeline.defaults = { 'memory': Infinity };$/;"	p
+Tone.Timeline.dispose	.\PoEmons\libraries\p5.sound.js	/^  Tone.Timeline.prototype.dispose = function () {$/;"	m
+Tone.Timeline.forEach	.\PoEmons\libraries\p5.sound.js	/^  Tone.Timeline.prototype.forEach = function (callback) {$/;"	m
+Tone.Timeline.forEachAfter	.\PoEmons\libraries\p5.sound.js	/^  Tone.Timeline.prototype.forEachAfter = function (time, callback) {$/;"	m
+Tone.Timeline.forEachAtTime	.\PoEmons\libraries\p5.sound.js	/^  Tone.Timeline.prototype.forEachAtTime = function (time, callback) {$/;"	m
+Tone.Timeline.forEachBefore	.\PoEmons\libraries\p5.sound.js	/^  Tone.Timeline.prototype.forEachBefore = function (time, callback) {$/;"	m
+Tone.Timeline.forEachFrom	.\PoEmons\libraries\p5.sound.js	/^  Tone.Timeline.prototype.forEachFrom = function (time, callback) {$/;"	m
+Tone.Timeline.getEvent	.\PoEmons\libraries\p5.sound.js	/^  Tone.Timeline.prototype.getEvent = function (time) {$/;"	m
+Tone.Timeline.getEventAfter	.\PoEmons\libraries\p5.sound.js	/^  Tone.Timeline.prototype.getEventAfter = function (time) {$/;"	m
+Tone.Timeline.getEventBefore	.\PoEmons\libraries\p5.sound.js	/^  Tone.Timeline.prototype.getEventBefore = function (time) {$/;"	m
+Tone.Timeline.removeEvent	.\PoEmons\libraries\p5.sound.js	/^  Tone.Timeline.prototype.removeEvent = function (event) {$/;"	m
+Tone.TimelineSignal	.\PoEmons\libraries\p5.sound.js	/^  Tone.TimelineSignal = function () {$/;"	c
+Tone.TimelineSignal.Tone.Param	.\PoEmons\libraries\p5.sound.js	/^    Tone.Param.prototype.dispose.call(this);$/;"	c
+Tone.TimelineSignal.Tone.Signal	.\PoEmons\libraries\p5.sound.js	/^    Tone.Signal.prototype.dispose.call(this);$/;"	c
+Tone.TimelineSignal.Tone.TimelineSignal.Tone.Param.dispose	.\PoEmons\libraries\p5.sound.js	/^    Tone.Param.prototype.dispose.call(this);$/;"	m
+Tone.TimelineSignal.Type.Exponential	.\PoEmons\libraries\p5.sound.js	/^    Exponential: 'exponential',$/;"	p
+Tone.TimelineSignal.Type.Linear	.\PoEmons\libraries\p5.sound.js	/^    Linear: 'linear',$/;"	p
+Tone.TimelineSignal.Type.Set	.\PoEmons\libraries\p5.sound.js	/^    Set: 'set'$/;"	p
+Tone.TimelineSignal.Type.Target	.\PoEmons\libraries\p5.sound.js	/^    Target: 'target',$/;"	p
+Tone.TimelineSignal._exponentialApproach	.\PoEmons\libraries\p5.sound.js	/^  Tone.TimelineSignal.prototype._exponentialApproach = function (t0, v0, v1, timeConstant, t) {$/;"	m
+Tone.TimelineSignal._exponentialInterpolate	.\PoEmons\libraries\p5.sound.js	/^  Tone.TimelineSignal.prototype._exponentialInterpolate = function (t0, v0, t1, v1, t) {$/;"	m
+Tone.TimelineSignal._linearInterpolate	.\PoEmons\libraries\p5.sound.js	/^  Tone.TimelineSignal.prototype._linearInterpolate = function (t0, v0, t1, v1, t) {$/;"	m
+Tone.TimelineSignal._searchAfter	.\PoEmons\libraries\p5.sound.js	/^  Tone.TimelineSignal.prototype._searchAfter = function (time) {$/;"	m
+Tone.TimelineSignal._searchBefore	.\PoEmons\libraries\p5.sound.js	/^  Tone.TimelineSignal.prototype._searchBefore = function (time) {$/;"	m
+Tone.TimelineSignal.cancelScheduledValues	.\PoEmons\libraries\p5.sound.js	/^  Tone.TimelineSignal.prototype.cancelScheduledValues = function (after) {$/;"	m
+Tone.TimelineSignal.connect	.\PoEmons\libraries\p5.sound.js	/^  Tone.TimelineSignal.prototype.connect = Tone.SignalBase.prototype.connect;$/;"	m
+Tone.TimelineSignal.dispose	.\PoEmons\libraries\p5.sound.js	/^  Tone.TimelineSignal.prototype.dispose = function () {$/;"	m
+Tone.TimelineSignal.exponentialRampToValueAtTime	.\PoEmons\libraries\p5.sound.js	/^  Tone.TimelineSignal.prototype.exponentialRampToValueAtTime = function (value, endTime) {$/;"	m
+Tone.TimelineSignal.exponentialRampToValueBetween	.\PoEmons\libraries\p5.sound.js	/^  Tone.TimelineSignal.prototype.exponentialRampToValueBetween = function (value, start, finish) {$/;"	m
+Tone.TimelineSignal.getValueAtTime	.\PoEmons\libraries\p5.sound.js	/^  Tone.TimelineSignal.prototype.getValueAtTime = function (time) {$/;"	m
+Tone.TimelineSignal.linearRampToValueAtTime	.\PoEmons\libraries\p5.sound.js	/^  Tone.TimelineSignal.prototype.linearRampToValueAtTime = function (value, endTime) {$/;"	m
+Tone.TimelineSignal.linearRampToValueBetween	.\PoEmons\libraries\p5.sound.js	/^  Tone.TimelineSignal.prototype.linearRampToValueBetween = function (value, start, finish) {$/;"	m
+Tone.TimelineSignal.setRampPoint	.\PoEmons\libraries\p5.sound.js	/^  Tone.TimelineSignal.prototype.setRampPoint = function (time) {$/;"	m
+Tone.TimelineSignal.setTargetAtTime	.\PoEmons\libraries\p5.sound.js	/^  Tone.TimelineSignal.prototype.setTargetAtTime = function (value, startTime, timeConstant) {$/;"	m
+Tone.TimelineSignal.setValueAtTime	.\PoEmons\libraries\p5.sound.js	/^  Tone.TimelineSignal.prototype.setValueAtTime = function (value, startTime) {$/;"	m
+Tone.TimelineState	.\PoEmons\libraries\p5.sound.js	/^  Tone.TimelineState = function (initial) {$/;"	c
+Tone.TimelineState.getStateAtTime	.\PoEmons\libraries\p5.sound.js	/^  Tone.TimelineState.prototype.getStateAtTime = function (time) {$/;"	m
+Tone.TimelineState.setStateAtTime	.\PoEmons\libraries\p5.sound.js	/^  Tone.TimelineState.prototype.setStateAtTime = function (state, time) {$/;"	m
+Tone.Type.AudioRange	.\PoEmons\libraries\p5.sound.js	/^    AudioRange: 'audioRange',$/;"	p
+Tone.Type.BPM	.\PoEmons\libraries\p5.sound.js	/^    BPM: 'bpm',$/;"	p
+Tone.Type.Cents	.\PoEmons\libraries\p5.sound.js	/^    Cents: 'cents',$/;"	p
+Tone.Type.Decibels	.\PoEmons\libraries\p5.sound.js	/^    Decibels: 'db',$/;"	p
+Tone.Type.Default	.\PoEmons\libraries\p5.sound.js	/^    Default: 'number',$/;"	p
+Tone.Type.Degrees	.\PoEmons\libraries\p5.sound.js	/^    Degrees: 'degrees',$/;"	p
+Tone.Type.Frequency	.\PoEmons\libraries\p5.sound.js	/^    Frequency: 'frequency',$/;"	p
+Tone.Type.Interval	.\PoEmons\libraries\p5.sound.js	/^    Interval: 'interval',$/;"	p
+Tone.Type.MIDI	.\PoEmons\libraries\p5.sound.js	/^    MIDI: 'midi',$/;"	p
+Tone.Type.Milliseconds	.\PoEmons\libraries\p5.sound.js	/^    Milliseconds: 'milliseconds',$/;"	p
+Tone.Type.NormalRange	.\PoEmons\libraries\p5.sound.js	/^    NormalRange: 'normalRange',$/;"	p
+Tone.Type.Notation	.\PoEmons\libraries\p5.sound.js	/^    Notation: 'notation'$/;"	p
+Tone.Type.Note	.\PoEmons\libraries\p5.sound.js	/^    Note: 'note',$/;"	p
+Tone.Type.Positive	.\PoEmons\libraries\p5.sound.js	/^    Positive: 'positive',$/;"	p
+Tone.Type.Ticks	.\PoEmons\libraries\p5.sound.js	/^    Ticks: 'tick',$/;"	p
+Tone.Type.Time	.\PoEmons\libraries\p5.sound.js	/^    Time: 'time',$/;"	p
+Tone.Type.TransportTime	.\PoEmons\libraries\p5.sound.js	/^    TransportTime: 'transportTime',$/;"	p
+Tone.WaveShaper	.\PoEmons\libraries\p5.sound.js	/^  Tone.WaveShaper = function (mapping, bufferLen) {$/;"	c
+Tone.WaveShaper.Tone	.\PoEmons\libraries\p5.sound.js	/^    Tone.prototype.dispose.call(this);$/;"	c
+Tone.WaveShaper.dispose	.\PoEmons\libraries\p5.sound.js	/^  Tone.WaveShaper.prototype.dispose = function () {$/;"	m
+Tone.WaveShaper.setMap	.\PoEmons\libraries\p5.sound.js	/^  Tone.WaveShaper.prototype.setMap = function (mapping) {$/;"	m
+Tone._collectDefaults	.\PoEmons\libraries\p5.sound.js	/^  Tone.prototype._collectDefaults = function (constr) {$/;"	m
+Tone._initAudioContext	.\PoEmons\libraries\p5.sound.js	/^  Tone._initAudioContext = function (callback) {$/;"	f
+Tone._readOnly	.\PoEmons\libraries\p5.sound.js	/^  Tone.prototype._readOnly = function (property) {$/;"	m
+Tone._writable	.\PoEmons\libraries\p5.sound.js	/^  Tone.prototype._writable = function (property) {$/;"	m
+Tone.blockTime	.\PoEmons\libraries\p5.sound.js	/^  Tone.prototype.blockTime = 128 \/ Tone.context.sampleRate;$/;"	m
+Tone.bufferSize	.\PoEmons\libraries\p5.sound.js	/^  Tone.prototype.bufferSize = 2048;$/;"	m
+Tone.chain	.\PoEmons\libraries\p5.sound.js	/^  Tone.prototype.chain = function () {$/;"	m
+Tone.connect	.\PoEmons\libraries\p5.sound.js	/^  Tone.prototype.connect = function (unit, outputNum, inputNum) {$/;"	m
+Tone.connectParallel	.\PoEmons\libraries\p5.sound.js	/^  Tone.prototype.connectParallel = function () {$/;"	m
+Tone.connectSeries	.\PoEmons\libraries\p5.sound.js	/^  Tone.prototype.connectSeries = function () {$/;"	m
+Tone.context	.\PoEmons\libraries\p5.sound.js	/^    Tone.prototype.context = ctx;$/;"	m
+Tone.context	.\PoEmons\libraries\p5.sound.js	/^  Tone.prototype.context = Tone.context;$/;"	m
+Tone.dbToGain	.\PoEmons\libraries\p5.sound.js	/^  Tone.prototype.dbToGain = function (db) {$/;"	m
+Tone.defaultArg	.\PoEmons\libraries\p5.sound.js	/^  Tone.prototype.defaultArg = function (given, fallback) {$/;"	m
+Tone.disconnect	.\PoEmons\libraries\p5.sound.js	/^  Tone.prototype.disconnect = function (outputNum) {$/;"	m
+Tone.dispose	.\PoEmons\libraries\p5.sound.js	/^  Tone.prototype.dispose = function () {$/;"	m
+Tone.equalPowerScale	.\PoEmons\libraries\p5.sound.js	/^  Tone.prototype.equalPowerScale = function (percent) {$/;"	m
+Tone.extend	.\PoEmons\libraries\p5.sound.js	/^  Tone.extend = function (child, parent) {$/;"	f
+Tone.extend.TempConstructor	.\PoEmons\libraries\p5.sound.js	/^    function TempConstructor() {$/;"	f
+Tone.fan	.\PoEmons\libraries\p5.sound.js	/^  Tone.prototype.fan = function () {$/;"	m
+Tone.frequencyToNote	.\PoEmons\libraries\p5.sound.js	/^  Tone.prototype.frequencyToNote = function (freq) {$/;"	m
+Tone.frequencyToSeconds	.\PoEmons\libraries\p5.sound.js	/^  Tone.prototype.frequencyToSeconds = function (freq) {$/;"	m
+Tone.fromUnits	.\PoEmons\libraries\p5.sound.js	/^  Tone.prototype.fromUnits = function (val, units) {$/;"	m
+Tone.gainToDb	.\PoEmons\libraries\p5.sound.js	/^  Tone.prototype.gainToDb = function (gain) {$/;"	m
+Tone.get	.\PoEmons\libraries\p5.sound.js	/^  Tone.prototype.get = function (params) {$/;"	m
+Tone.intervalToFrequencyRatio	.\PoEmons\libraries\p5.sound.js	/^  Tone.prototype.intervalToFrequencyRatio = function (interval) {$/;"	m
+Tone.isArray	.\PoEmons\libraries\p5.sound.js	/^  Tone.prototype.isArray = function (arg) {$/;"	m
+Tone.isBoolean	.\PoEmons\libraries\p5.sound.js	/^  Tone.prototype.isBoolean = function (arg) {$/;"	m
+Tone.isFrequency	.\PoEmons\libraries\p5.sound.js	/^  Tone.prototype.isFrequency = function () {$/;"	m
+Tone.isFunction	.\PoEmons\libraries\p5.sound.js	/^  Tone.prototype.isFunction = isFunction;$/;"	m
+Tone.isNotation	.\PoEmons\libraries\p5.sound.js	/^  Tone.prototype.isNotation = function () {$/;"	m
+Tone.isNote	.\PoEmons\libraries\p5.sound.js	/^  Tone.prototype.isNote = function () {$/;"	m
+Tone.isNowRelative	.\PoEmons\libraries\p5.sound.js	/^  Tone.prototype.isNowRelative = function () {$/;"	m
+Tone.isNumber	.\PoEmons\libraries\p5.sound.js	/^  Tone.prototype.isNumber = function (arg) {$/;"	m
+Tone.isObject	.\PoEmons\libraries\p5.sound.js	/^  Tone.prototype.isObject = function (arg) {$/;"	m
+Tone.isString	.\PoEmons\libraries\p5.sound.js	/^  Tone.prototype.isString = function (arg) {$/;"	m
+Tone.isTicks	.\PoEmons\libraries\p5.sound.js	/^  Tone.prototype.isTicks = function () {$/;"	m
+Tone.isTransportTime	.\PoEmons\libraries\p5.sound.js	/^  Tone.prototype.isTransportTime = function () {$/;"	m
+Tone.isUndef	.\PoEmons\libraries\p5.sound.js	/^  Tone.prototype.isUndef = isUndef;$/;"	m
+Tone.midiToFrequency	.\PoEmons\libraries\p5.sound.js	/^  Tone.prototype.midiToFrequency = function (midi) {$/;"	m
+Tone.midiToNote	.\PoEmons\libraries\p5.sound.js	/^  Tone.prototype.midiToNote = function (midiNumber) {$/;"	m
+Tone.noGC	.\PoEmons\libraries\p5.sound.js	/^  Tone.prototype.noGC = function () {$/;"	m
+Tone.noOp	.\PoEmons\libraries\p5.sound.js	/^  Tone.noOp = function () {$/;"	f
+Tone.notationToSeconds	.\PoEmons\libraries\p5.sound.js	/^  Tone.prototype.notationToSeconds = function (notation, bpm, timeSignature) {$/;"	m
+Tone.noteToFrequency	.\PoEmons\libraries\p5.sound.js	/^  Tone.prototype.noteToFrequency = function (note) {$/;"	m
+Tone.noteToMidi	.\PoEmons\libraries\p5.sound.js	/^  Tone.prototype.noteToMidi = function (note) {$/;"	m
+Tone.now	.\PoEmons\libraries\p5.sound.js	/^  Tone.prototype.now = function () {$/;"	m
+Tone.optionsObject	.\PoEmons\libraries\p5.sound.js	/^  Tone.prototype.optionsObject = function (values, keys, defaults) {$/;"	m
+Tone.return	.\PoEmons\libraries\p5.sound.js	/^    return Object.prototype.toString.call(arg) === '[object Object]' && arg.constructor === Object;$/;"	c
+Tone.samplesToSeconds	.\PoEmons\libraries\p5.sound.js	/^  Tone.prototype.samplesToSeconds = function (samples) {$/;"	m
+Tone.secondsToFrequency	.\PoEmons\libraries\p5.sound.js	/^  Tone.prototype.secondsToFrequency = function (seconds) {$/;"	m
+Tone.secondsToSamples	.\PoEmons\libraries\p5.sound.js	/^  Tone.prototype.secondsToSamples = function (seconds) {$/;"	m
+Tone.secondsToTransportTime	.\PoEmons\libraries\p5.sound.js	/^  Tone.prototype.secondsToTransportTime = function (seconds, bpm, timeSignature) {$/;"	m
+Tone.set	.\PoEmons\libraries\p5.sound.js	/^  Tone.prototype.set = function (params, value, rampTime) {$/;"	m
+Tone.setContext	.\PoEmons\libraries\p5.sound.js	/^  Tone.setContext = function (ctx) {$/;"	f
+Tone.startMobile	.\PoEmons\libraries\p5.sound.js	/^  Tone.startMobile = function () {$/;"	f
+Tone.ticksToSeconds	.\PoEmons\libraries\p5.sound.js	/^  Tone.prototype.ticksToSeconds = function (ticks, bpm) {$/;"	m
+Tone.toFrequency	.\PoEmons\libraries\p5.sound.js	/^  Tone.prototype.toFrequency = function (freq, now) {$/;"	m
+Tone.toNotation	.\PoEmons\libraries\p5.sound.js	/^  Tone.prototype.toNotation = function (time, bpm, timeSignature) {$/;"	m
+Tone.toSamples	.\PoEmons\libraries\p5.sound.js	/^  Tone.prototype.toSamples = function (time) {$/;"	m
+Tone.toSeconds	.\PoEmons\libraries\p5.sound.js	/^  Tone.prototype.toSeconds = function (time, now) {$/;"	m
+Tone.toString	.\PoEmons\libraries\p5.sound.js	/^  Tone.prototype.toString = function () {$/;"	m
+Tone.toTicks	.\PoEmons\libraries\p5.sound.js	/^  Tone.prototype.toTicks = function (time) {$/;"	m
+Tone.toTransportTime	.\PoEmons\libraries\p5.sound.js	/^  Tone.prototype.toTransportTime = function (time, bpm, timeSignature) {$/;"	m
+Tone.toUnits	.\PoEmons\libraries\p5.sound.js	/^  Tone.prototype.toUnits = function (val, units) {$/;"	m
+Tone.transportTimeToSeconds	.\PoEmons\libraries\p5.sound.js	/^  Tone.prototype.transportTimeToSeconds = function (transportTime, bpm, timeSignature) {$/;"	m
+Tone_core_Clock	.\PoEmons\libraries\p5.sound.js	/^Tone_core_Clock = function (Tone) {$/;"	f
+Tone_core_Clock	.\PoEmons\libraries\p5.sound.js	/^var Tone_core_Clock;$/;"	v
+Tone_core_Gain	.\PoEmons\libraries\p5.sound.js	/^Tone_core_Gain = function (Tone) {$/;"	f
+Tone_core_Gain	.\PoEmons\libraries\p5.sound.js	/^var Tone_core_Gain;$/;"	v
+Tone_core_Param	.\PoEmons\libraries\p5.sound.js	/^Tone_core_Param = function (Tone) {$/;"	f
+Tone_core_Param	.\PoEmons\libraries\p5.sound.js	/^var Tone_core_Param;$/;"	v
+Tone_core_Timeline	.\PoEmons\libraries\p5.sound.js	/^Tone_core_Timeline = function (Tone) {$/;"	f
+Tone_core_Timeline	.\PoEmons\libraries\p5.sound.js	/^var Tone_core_Timeline;$/;"	v
+Tone_core_TimelineState	.\PoEmons\libraries\p5.sound.js	/^Tone_core_TimelineState = function (Tone) {$/;"	f
+Tone_core_TimelineState	.\PoEmons\libraries\p5.sound.js	/^var Tone_core_TimelineState;$/;"	v
+Tone_core_Tone	.\PoEmons\libraries\p5.sound.js	/^Tone_core_Tone = function () {$/;"	f
+Tone_core_Tone	.\PoEmons\libraries\p5.sound.js	/^var Tone_core_Tone;$/;"	v
+Tone_core_Tone.Tone	.\PoEmons\libraries\p5.sound.js	/^  var Tone = function (inputs, outputs) {$/;"	f
+Tone_core_Tone.isFunction	.\PoEmons\libraries\p5.sound.js	/^  function isFunction(val) {$/;"	f
+Tone_core_Tone.isUndef	.\PoEmons\libraries\p5.sound.js	/^  function isUndef(val) {$/;"	f
+Tone_core_Type	.\PoEmons\libraries\p5.sound.js	/^Tone_core_Type = function (Tone) {$/;"	f
+Tone_core_Type	.\PoEmons\libraries\p5.sound.js	/^var Tone_core_Type;$/;"	v
+Tone_signal_Add	.\PoEmons\libraries\p5.sound.js	/^Tone_signal_Add = function (Tone) {$/;"	f
+Tone_signal_Add	.\PoEmons\libraries\p5.sound.js	/^var Tone_signal_Add;$/;"	v
+Tone_signal_Multiply	.\PoEmons\libraries\p5.sound.js	/^Tone_signal_Multiply = function (Tone) {$/;"	f
+Tone_signal_Multiply	.\PoEmons\libraries\p5.sound.js	/^var Tone_signal_Multiply;$/;"	v
+Tone_signal_Scale	.\PoEmons\libraries\p5.sound.js	/^Tone_signal_Scale = function (Tone) {$/;"	f
+Tone_signal_Scale	.\PoEmons\libraries\p5.sound.js	/^var Tone_signal_Scale;$/;"	v
+Tone_signal_Signal	.\PoEmons\libraries\p5.sound.js	/^Tone_signal_Signal = function (Tone) {$/;"	f
+Tone_signal_Signal	.\PoEmons\libraries\p5.sound.js	/^var Tone_signal_Signal;$/;"	v
+Tone_signal_SignalBase	.\PoEmons\libraries\p5.sound.js	/^Tone_signal_SignalBase = function (Tone) {$/;"	f
+Tone_signal_SignalBase	.\PoEmons\libraries\p5.sound.js	/^var Tone_signal_SignalBase;$/;"	v
+Tone_signal_TimelineSignal	.\PoEmons\libraries\p5.sound.js	/^Tone_signal_TimelineSignal = function (Tone) {$/;"	f
+Tone_signal_TimelineSignal	.\PoEmons\libraries\p5.sound.js	/^var Tone_signal_TimelineSignal;$/;"	v
+Tone_signal_WaveShaper	.\PoEmons\libraries\p5.sound.js	/^Tone_signal_WaveShaper = function (Tone) {$/;"	f
+Tone_signal_WaveShaper	.\PoEmons\libraries\p5.sound.js	/^var Tone_signal_WaveShaper;$/;"	v
+addElement	.\PoEmons\libraries\p5.dom.js	/^  function addElement(elt, pInst, media) {$/;"	f
+amplitude	.\PoEmons\libraries\p5.sound.js	/^amplitude = function () {$/;"	f
+amplitude	.\PoEmons\libraries\p5.sound.js	/^var amplitude;$/;"	v
+audioin	.\PoEmons\libraries\p5.sound.js	/^audioin = function () {$/;"	f
+audioin	.\PoEmons\libraries\p5.sound.js	/^var audioin;$/;"	v
+calculateRawXp	.\PoEmons\functions.js	/^function calculateRawXp(currentLevel,zoneLevel){$/;"	f
+calculateTime	.\PoEmons\functions.js	/^function calculateTime(currentLevel,zoneLevel,xpPerHour,playerLevels,xpToGain){$/;"	f
+child	.\PoEmons\libraries\p5.sound.js	/^    child.prototype.constructor = child;$/;"	c
+child.constructor	.\PoEmons\libraries\p5.sound.js	/^    child.prototype.constructor = child;$/;"	m
+constraints.audio	.\PoEmons\libraries\p5.dom.js	/^        constraints = {video: useVideo, audio: useAudio};$/;"	p
+constraints.video	.\PoEmons\libraries\p5.dom.js	/^        constraints = {video: useVideo, audio: useAudio};$/;"	p
+converted.checked	.\PoEmons\libraries\p5.dom.js	/^      converted.checked = function(){$/;"	f
+createMedia	.\PoEmons\libraries\p5.dom.js	/^  function createMedia(pInst, type, src, callback) {$/;"	f
+currentLevel	.\PoEmons\sketch.js	/^var currentLevel,zoneLevel,xpPerHour;$/;"	v
+delay	.\PoEmons\libraries\p5.sound.js	/^delay = function () {$/;"	f
+delay	.\PoEmons\libraries\p5.sound.js	/^var delay;$/;"	v
+distortion	.\PoEmons\libraries\p5.sound.js	/^distortion = function () {$/;"	f
+distortion	.\PoEmons\libraries\p5.sound.js	/^var distortion;$/;"	v
+distortion.makeDistortionCurve	.\PoEmons\libraries\p5.sound.js	/^  function makeDistortionCurve(amount) {$/;"	f
+draw	.\PoEmons\sketch.js	/^function draw() {$/;"	f
+effectiveDifference	.\PoEmons\functions.js	/^function effectiveDifference (parLevel,parZone) {$/;"	f
+el	.\PoEmons\libraries\p5.sound.js	/^  var el = document.createElement('audio');$/;"	v
+elt.onload	.\PoEmons\libraries\p5.dom.js	/^    elt.onload = function(){$/;"	f
+env	.\PoEmons\libraries\p5.sound.js	/^env = function () {$/;"	f
+env	.\PoEmons\libraries\p5.sound.js	/^var env;$/;"	v
+errorHandler	.\PoEmons\libraries\p5.sound.js	/^errorHandler = function () {$/;"	f
+errorHandler	.\PoEmons\libraries\p5.sound.js	/^var errorHandler;$/;"	v
+errorHandler.CustomError	.\PoEmons\libraries\p5.sound.js	/^  var CustomError = function (name, errorTrace, failedPath) {$/;"	f
+fft	.\PoEmons\libraries\p5.sound.js	/^fft = function () {$/;"	f
+fft	.\PoEmons\libraries\p5.sound.js	/^var fft;$/;"	v
+fft.freqToFloat	.\PoEmons\libraries\p5.sound.js	/^  var freqToFloat = function (fft) {$/;"	f
+fft.freqToInt	.\PoEmons\libraries\p5.sound.js	/^  var freqToInt = function (fft) {$/;"	f
+fft.timeToFloat	.\PoEmons\libraries\p5.sound.js	/^  var timeToFloat = function (fft) {$/;"	f
+fft.timeToInt	.\PoEmons\libraries\p5.sound.js	/^  var timeToInt = function (fft) {$/;"	f
+filter	.\PoEmons\libraries\p5.sound.js	/^filter = function () {$/;"	f
+filter	.\PoEmons\libraries\p5.sound.js	/^var filter;$/;"	v
+function.function.makeLoader	.\PoEmons\libraries\p5.dom.js	/^          function makeLoader(theFile) {$/;"	f
+function.handleFileSelect	.\PoEmons\libraries\p5.dom.js	/^      function handleFileSelect(evt) {$/;"	f
+gain	.\PoEmons\libraries\p5.sound.js	/^gain = function () {$/;"	f
+gain	.\PoEmons\libraries\p5.sound.js	/^var gain;$/;"	v
+getContainer	.\PoEmons\libraries\p5.dom.js	/^  function getContainer(p) {$/;"	f
+getTransportBpm	.\PoEmons\libraries\p5.sound.js	/^  function getTransportBpm() {$/;"	f
+getTransportTimeSignature	.\PoEmons\libraries\p5.sound.js	/^  function getTransportTimeSignature() {$/;"	f
+hasOwnProperty	.\PoEmons\libraries\p5.sound.js	/^      if (!AudioContext.prototype.hasOwnProperty('createDelay'))$/;"	m
+hasOwnProperty	.\PoEmons\libraries\p5.sound.js	/^      if (!AudioContext.prototype.hasOwnProperty('createPeriodicWave'))$/;"	m
+helpers	.\PoEmons\libraries\p5.sound.js	/^helpers = function () {$/;"	f
+helpers	.\PoEmons\libraries\p5.sound.js	/^var helpers;$/;"	v
+iOS	.\PoEmons\libraries\p5.sound.js	/^  var iOS = navigator.userAgent.match(\/(iPad|iPhone|iPod)\/g) ? true : false;$/;"	v
+isAACSupported	.\PoEmons\libraries\p5.sound.js	/^  var isAACSupported = function () {$/;"	f
+isAIFSupported	.\PoEmons\libraries\p5.sound.js	/^  var isAIFSupported = function () {$/;"	f
+isMP3Supported	.\PoEmons\libraries\p5.sound.js	/^  var isMP3Supported = function () {$/;"	f
+isOGGSupported	.\PoEmons\libraries\p5.sound.js	/^  var isOGGSupported = function () {$/;"	f
+isWAVSupported	.\PoEmons\libraries\p5.sound.js	/^  var isWAVSupported = function () {$/;"	f
+looper	.\PoEmons\libraries\p5.sound.js	/^looper = function () {$/;"	f
+looper	.\PoEmons\libraries\p5.sound.js	/^var looper;$/;"	v
+looper.playNextPart	.\PoEmons\libraries\p5.sound.js	/^  function playNextPart(aScore) {$/;"	f
+lvlSlider	.\PoEmons\sketch.js	/^var lvlSlider,zoneSlider,xpSlider;$/;"	v
+master	.\PoEmons\libraries\p5.sound.js	/^master = function () {$/;"	f
+master	.\PoEmons\libraries\p5.sound.js	/^var master;$/;"	v
+master.Master	.\PoEmons\libraries\p5.sound.js	/^  var Master = function () {$/;"	c
+metro	.\PoEmons\libraries\p5.sound.js	/^metro = function () {$/;"	f
+metro	.\PoEmons\libraries\p5.sound.js	/^var metro;$/;"	v
+node.start	.\PoEmons\libraries\p5.sound.js	/^          node.start = function (when, offset, duration) {$/;"	f
+node.stop	.\PoEmons\libraries\p5.sound.js	/^          node.stop = function (when) {$/;"	c
+node.stop	.\PoEmons\libraries\p5.sound.js	/^          node.stop = function (when) {$/;"	f
+noise	.\PoEmons\libraries\p5.sound.js	/^noise = function () {$/;"	f
+noise	.\PoEmons\libraries\p5.sound.js	/^var noise;$/;"	v
+noise._brownNoise	.\PoEmons\libraries\p5.sound.js	/^  var _brownNoise = function () {$/;"	f
+noise._pinkNoise	.\PoEmons\libraries\p5.sound.js	/^  var _pinkNoise = function () {$/;"	f
+noise._whiteNoise	.\PoEmons\libraries\p5.sound.js	/^  var _whiteNoise = function () {$/;"	f
+noteToScaleIndex.cbb	.\PoEmons\libraries\p5.sound.js	/^    'cbb': -2,$/;"	p
+offlineContext.oncomplete	.\PoEmons\libraries\p5.sound.js	/^    offlineContext.oncomplete = function (e) {$/;"	c
+oscillator	.\PoEmons\libraries\p5.sound.js	/^oscillator = function () {$/;"	f
+oscillator	.\PoEmons\libraries\p5.sound.js	/^var oscillator;$/;"	v
+oscillator.sigChain	.\PoEmons\libraries\p5.sound.js	/^  var sigChain = function (o, mathObj, thisChain, nextChain, type) {$/;"	f
+p5	.\PoEmons\libraries\p5.dom.js	/^  p5.prototype.selectAll = function (e, p) {$/;"	c
+p5	.\PoEmons\libraries\p5.sound.js	/^  p5.prototype.getAudioContext = function () {$/;"	c
+p5.AUDIO	.\PoEmons\libraries\p5.dom.js	/^  p5.prototype.AUDIO = 'audio';$/;"	m
+p5.Amplitude	.\PoEmons\libraries\p5.sound.js	/^  p5.Amplitude = function (smoothing) {$/;"	c
+p5.Amplitude._audioProcess	.\PoEmons\libraries\p5.sound.js	/^  p5.Amplitude.prototype._audioProcess = function (event) {$/;"	m
+p5.Amplitude.connect	.\PoEmons\libraries\p5.sound.js	/^  p5.Amplitude.prototype.connect = function (unit) {$/;"	m
+p5.Amplitude.disconnect	.\PoEmons\libraries\p5.sound.js	/^  p5.Amplitude.prototype.disconnect = function (unit) {$/;"	m
+p5.Amplitude.dispose	.\PoEmons\libraries\p5.sound.js	/^  p5.Amplitude.prototype.dispose = function () {$/;"	m
+p5.Amplitude.getLevel	.\PoEmons\libraries\p5.sound.js	/^  p5.Amplitude.prototype.getLevel = function (channel) {$/;"	m
+p5.Amplitude.setInput	.\PoEmons\libraries\p5.sound.js	/^  p5.Amplitude.prototype.setInput = function (source, smoothing) {$/;"	m
+p5.Amplitude.smooth	.\PoEmons\libraries\p5.sound.js	/^  p5.Amplitude.prototype.smooth = function (s) {$/;"	m
+p5.Amplitude.toggleNormalize	.\PoEmons\libraries\p5.sound.js	/^  p5.Amplitude.prototype.toggleNormalize = function (bool) {$/;"	m
+p5.AudioIn	.\PoEmons\libraries\p5.sound.js	/^  p5.AudioIn = function (errorCallback) {$/;"	c
+p5.AudioIn._gotSources	.\PoEmons\libraries\p5.sound.js	/^  p5.AudioIn.prototype._gotSources = function (sourceInfos) {$/;"	m
+p5.AudioIn.amp	.\PoEmons\libraries\p5.sound.js	/^  p5.AudioIn.prototype.amp = function (vol, t) {$/;"	m
+p5.AudioIn.connect	.\PoEmons\libraries\p5.sound.js	/^  p5.AudioIn.prototype.connect = function (unit) {$/;"	m
+p5.AudioIn.disconnect	.\PoEmons\libraries\p5.sound.js	/^  p5.AudioIn.prototype.disconnect = function () {$/;"	m
+p5.AudioIn.dispose	.\PoEmons\libraries\p5.sound.js	/^  p5.AudioIn.prototype.dispose = function () {$/;"	m
+p5.AudioIn.getLevel	.\PoEmons\libraries\p5.sound.js	/^  p5.AudioIn.prototype.getLevel = function (smoothing) {$/;"	m
+p5.AudioIn.getSources	.\PoEmons\libraries\p5.sound.js	/^  p5.AudioIn.prototype.getSources = function (callback) {$/;"	m
+p5.AudioIn.listSources	.\PoEmons\libraries\p5.sound.js	/^  p5.AudioIn.prototype.listSources = function () {$/;"	m
+p5.AudioIn.setSource	.\PoEmons\libraries\p5.sound.js	/^  p5.AudioIn.prototype.setSource = function (num) {$/;"	m
+p5.AudioIn.start	.\PoEmons\libraries\p5.sound.js	/^  p5.AudioIn.prototype.start = function (successCallback, errorCallback) {$/;"	m
+p5.AudioIn.stop	.\PoEmons\libraries\p5.sound.js	/^  p5.AudioIn.prototype.stop = function () {$/;"	m
+p5.AudioIn.var.constraints.audio	.\PoEmons\libraries\p5.sound.js	/^      var constraints = { audio: { optional: [{ sourceId: audioSource }] } };$/;"	p
+p5.BandPass	.\PoEmons\libraries\p5.sound.js	/^  p5.BandPass = function () {$/;"	f
+p5.BandPass	.\PoEmons\libraries\p5.sound.js	/^  p5.BandPass.prototype = Object.create(p5.Filter.prototype);$/;"	c
+p5.Convolver	.\PoEmons\libraries\p5.sound.js	/^  p5.Convolver = function (path, callback, errorCallback) {$/;"	c
+p5.Convolver._loadBuffer	.\PoEmons\libraries\p5.sound.js	/^  p5.Convolver.prototype._loadBuffer = function (path, callback, errorCallback) {$/;"	m
+p5.Convolver.addImpulse	.\PoEmons\libraries\p5.sound.js	/^  p5.Convolver.prototype.addImpulse = function (path, callback, errorCallback) {$/;"	m
+p5.Convolver.dispose	.\PoEmons\libraries\p5.sound.js	/^  p5.Convolver.prototype.dispose = function () {$/;"	m
+p5.Convolver.impulses	.\PoEmons\libraries\p5.sound.js	/^  p5.Convolver.prototype.impulses = [];$/;"	m
+p5.Convolver.process	.\PoEmons\libraries\p5.sound.js	/^  p5.Convolver.prototype.process = function (src) {$/;"	m
+p5.Convolver.resetImpulse	.\PoEmons\libraries\p5.sound.js	/^  p5.Convolver.prototype.resetImpulse = function (path, callback, errorCallback) {$/;"	m
+p5.Convolver.set	.\PoEmons\libraries\p5.sound.js	/^  p5.Convolver.prototype.set = null;$/;"	m
+p5.Convolver.toggleImpulse	.\PoEmons\libraries\p5.sound.js	/^  p5.Convolver.prototype.toggleImpulse = function (id) {$/;"	m
+p5.Delay	.\PoEmons\libraries\p5.sound.js	/^  p5.Delay = function () {$/;"	c
+p5.Delay.amp	.\PoEmons\libraries\p5.sound.js	/^  p5.Delay.prototype.amp = function (vol, rampTime, tFromNow) {$/;"	m
+p5.Delay.connect	.\PoEmons\libraries\p5.sound.js	/^  p5.Delay.prototype.connect = function (unit) {$/;"	m
+p5.Delay.delayTime	.\PoEmons\libraries\p5.sound.js	/^  p5.Delay.prototype.delayTime = function (t) {$/;"	m
+p5.Delay.disconnect	.\PoEmons\libraries\p5.sound.js	/^  p5.Delay.prototype.disconnect = function () {$/;"	m
+p5.Delay.dispose	.\PoEmons\libraries\p5.sound.js	/^  p5.Delay.prototype.dispose = function () {$/;"	m
+p5.Delay.feedback	.\PoEmons\libraries\p5.sound.js	/^  p5.Delay.prototype.feedback = function (f) {$/;"	m
+p5.Delay.filter	.\PoEmons\libraries\p5.sound.js	/^  p5.Delay.prototype.filter = function (freq, q) {$/;"	m
+p5.Delay.process	.\PoEmons\libraries\p5.sound.js	/^  p5.Delay.prototype.process = function (src, _delayTime, _feedback, _filter) {$/;"	m
+p5.Delay.setType	.\PoEmons\libraries\p5.sound.js	/^  p5.Delay.prototype.setType = function (t) {$/;"	m
+p5.Distortion	.\PoEmons\libraries\p5.sound.js	/^  p5.Distortion = function (amount, oversample) {$/;"	c
+p5.Distortion.connect	.\PoEmons\libraries\p5.sound.js	/^  p5.Distortion.prototype.connect = function (unit) {$/;"	m
+p5.Distortion.disconnect	.\PoEmons\libraries\p5.sound.js	/^  p5.Distortion.prototype.disconnect = function () {$/;"	m
+p5.Distortion.dispose	.\PoEmons\libraries\p5.sound.js	/^  p5.Distortion.prototype.dispose = function () {$/;"	m
+p5.Distortion.getAmount	.\PoEmons\libraries\p5.sound.js	/^  p5.Distortion.prototype.getAmount = function () {$/;"	m
+p5.Distortion.getOversample	.\PoEmons\libraries\p5.sound.js	/^  p5.Distortion.prototype.getOversample = function () {$/;"	m
+p5.Distortion.process	.\PoEmons\libraries\p5.sound.js	/^  p5.Distortion.prototype.process = function (src, amount, oversample) {$/;"	m
+p5.Distortion.set	.\PoEmons\libraries\p5.sound.js	/^  p5.Distortion.prototype.set = function (amount, oversample) {$/;"	m
+p5.Element	.\PoEmons\libraries\p5.dom.js	/^  p5.Element.prototype.addClass = function(c) {$/;"	c
+p5.Element._rotate	.\PoEmons\libraries\p5.dom.js	/^  p5.Element.prototype._rotate = function(){$/;"	m
+p5.Element._translate	.\PoEmons\libraries\p5.dom.js	/^  p5.Element.prototype._translate = function(){$/;"	m
+p5.Element.addClass	.\PoEmons\libraries\p5.dom.js	/^  p5.Element.prototype.addClass = function(c) {$/;"	m
+p5.Element.center	.\PoEmons\libraries\p5.dom.js	/^  p5.Element.prototype.center = function(align) {$/;"	m
+p5.Element.child	.\PoEmons\libraries\p5.dom.js	/^  p5.Element.prototype.child = function(c) {$/;"	m
+p5.Element.hide	.\PoEmons\libraries\p5.dom.js	/^  p5.Element.prototype.hide = function() {$/;"	m
+p5.Element.html	.\PoEmons\libraries\p5.dom.js	/^  p5.Element.prototype.html = function(html) {$/;"	m
+p5.Element.position	.\PoEmons\libraries\p5.dom.js	/^  p5.Element.prototype.position = function() {$/;"	m
+p5.Element.remove	.\PoEmons\libraries\p5.dom.js	/^  p5.Element.prototype.remove = function() {$/;"	m
+p5.Element.removeAttribute	.\PoEmons\libraries\p5.dom.js	/^  p5.Element.prototype.removeAttribute = function(attr) {$/;"	m
+p5.Element.removeClass	.\PoEmons\libraries\p5.dom.js	/^  p5.Element.prototype.removeClass = function(c) {$/;"	m
+p5.Element.show	.\PoEmons\libraries\p5.dom.js	/^  p5.Element.prototype.show = function() {$/;"	m
+p5.Element.size	.\PoEmons\libraries\p5.dom.js	/^  p5.Element.prototype.size = function(w, h) {$/;"	m
+p5.Element.style	.\PoEmons\libraries\p5.dom.js	/^  p5.Element.prototype.style = function(prop, val) {$/;"	m
+p5.Element.value	.\PoEmons\libraries\p5.dom.js	/^  p5.Element.prototype.value = function() {$/;"	m
+p5.Element.var.pos.x	.\PoEmons\libraries\p5.dom.js	/^    var pos = { x : this.elt.offsetLeft, y : this.elt.offsetTop };$/;"	p
+p5.Env	.\PoEmons\libraries\p5.sound.js	/^  p5.Env = function (t1, l1, t2, l2, t3, l3) {$/;"	c
+p5.Env._init	.\PoEmons\libraries\p5.sound.js	/^  p5.Env.prototype._init = function () {$/;"	m
+p5.Env._setRampAD	.\PoEmons\libraries\p5.sound.js	/^  p5.Env.prototype._setRampAD = function (t1, t2) {$/;"	m
+p5.Env.add	.\PoEmons\libraries\p5.sound.js	/^  p5.Env.prototype.add = function (num) {$/;"	m
+p5.Env.checkExpInput	.\PoEmons\libraries\p5.sound.js	/^  p5.Env.prototype.checkExpInput = function (value) {$/;"	m
+p5.Env.connect	.\PoEmons\libraries\p5.sound.js	/^  p5.Env.prototype.connect = function (unit) {$/;"	m
+p5.Env.disconnect	.\PoEmons\libraries\p5.sound.js	/^  p5.Env.prototype.disconnect = function (unit) {$/;"	m
+p5.Env.dispose	.\PoEmons\libraries\p5.sound.js	/^  p5.Env.prototype.dispose = function () {$/;"	m
+p5.Env.mult	.\PoEmons\libraries\p5.sound.js	/^  p5.Env.prototype.mult = function (num) {$/;"	m
+p5.Env.play	.\PoEmons\libraries\p5.sound.js	/^  p5.Env.prototype.play = function (unit, secondsFromNow, susTime) {$/;"	m
+p5.Env.ramp	.\PoEmons\libraries\p5.sound.js	/^  p5.Env.prototype.ramp = function (unit, secondsFromNow, v1, v2) {$/;"	m
+p5.Env.return	.\PoEmons\libraries\p5.sound.js	/^    return p5.prototype._mathChain(this, add, thisChain, nextChain, Add);$/;"	c
+p5.Env.scale	.\PoEmons\libraries\p5.sound.js	/^  p5.Env.prototype.scale = function (inMin, inMax, outMin, outMax) {$/;"	m
+p5.Env.set	.\PoEmons\libraries\p5.sound.js	/^  p5.Env.prototype.set = function (t1, l1, t2, l2, t3, l3) {$/;"	m
+p5.Env.setADSR	.\PoEmons\libraries\p5.sound.js	/^  p5.Env.prototype.setADSR = function (aTime, dTime, sPercent, rTime) {$/;"	m
+p5.Env.setExp	.\PoEmons\libraries\p5.sound.js	/^  p5.Env.prototype.setExp = function (isExp) {$/;"	m
+p5.Env.setInput	.\PoEmons\libraries\p5.sound.js	/^  p5.Env.prototype.setInput = function (unit) {$/;"	m
+p5.Env.setRampPercentages	.\PoEmons\libraries\p5.sound.js	/^  p5.Env.prototype.setRampPercentages = function (p1, p2) {$/;"	m
+p5.Env.setRange	.\PoEmons\libraries\p5.sound.js	/^  p5.Env.prototype.setRange = function (aLevel, rLevel) {$/;"	m
+p5.Env.triggerAttack	.\PoEmons\libraries\p5.sound.js	/^  p5.Env.prototype.triggerAttack = function (unit, secondsFromNow) {$/;"	m
+p5.Env.triggerRelease	.\PoEmons\libraries\p5.sound.js	/^  p5.Env.prototype.triggerRelease = function (unit, secondsFromNow) {$/;"	m
+p5.FFT	.\PoEmons\libraries\p5.sound.js	/^  p5.FFT = function (smoothing, bins) {$/;"	c
+p5.FFT.analyze	.\PoEmons\libraries\p5.sound.js	/^  p5.FFT.prototype.analyze = function () {$/;"	m
+p5.FFT.dispose	.\PoEmons\libraries\p5.sound.js	/^  p5.FFT.prototype.dispose = function () {$/;"	m
+p5.FFT.getCentroid	.\PoEmons\libraries\p5.sound.js	/^  p5.FFT.prototype.getCentroid = function () {$/;"	m
+p5.FFT.getEnergy	.\PoEmons\libraries\p5.sound.js	/^  p5.FFT.prototype.getEnergy = function (frequency1, frequency2) {$/;"	m
+p5.FFT.getFreq	.\PoEmons\libraries\p5.sound.js	/^  p5.FFT.prototype.getFreq = function (freq1, freq2) {$/;"	m
+p5.FFT.setInput	.\PoEmons\libraries\p5.sound.js	/^  p5.FFT.prototype.setInput = function (source) {$/;"	m
+p5.FFT.smooth	.\PoEmons\libraries\p5.sound.js	/^  p5.FFT.prototype.smooth = function (s) {$/;"	m
+p5.FFT.waveform	.\PoEmons\libraries\p5.sound.js	/^  p5.FFT.prototype.waveform = function () {$/;"	m
+p5.File	.\PoEmons\libraries\p5.dom.js	/^  p5.File = function(file, pInst) {$/;"	c
+p5.Filter	.\PoEmons\libraries\p5.sound.js	/^  p5.Filter = function (type) {$/;"	c
+p5.Filter.amp	.\PoEmons\libraries\p5.sound.js	/^  p5.Filter.prototype.amp = function (vol, rampTime, tFromNow) {$/;"	m
+p5.Filter.connect	.\PoEmons\libraries\p5.sound.js	/^  p5.Filter.prototype.connect = function (unit) {$/;"	m
+p5.Filter.disconnect	.\PoEmons\libraries\p5.sound.js	/^  p5.Filter.prototype.disconnect = function () {$/;"	m
+p5.Filter.dispose	.\PoEmons\libraries\p5.sound.js	/^  p5.Filter.prototype.dispose = function () {$/;"	m
+p5.Filter.freq	.\PoEmons\libraries\p5.sound.js	/^  p5.Filter.prototype.freq = function (freq, time) {$/;"	m
+p5.Filter.process	.\PoEmons\libraries\p5.sound.js	/^  p5.Filter.prototype.process = function (src, freq, res) {$/;"	m
+p5.Filter.res	.\PoEmons\libraries\p5.sound.js	/^  p5.Filter.prototype.res = function (res, time) {$/;"	m
+p5.Filter.set	.\PoEmons\libraries\p5.sound.js	/^  p5.Filter.prototype.set = function (freq, res, time) {$/;"	m
+p5.Filter.setType	.\PoEmons\libraries\p5.sound.js	/^  p5.Filter.prototype.setType = function (t) {$/;"	m
+p5.Gain	.\PoEmons\libraries\p5.sound.js	/^  p5.Gain = function () {$/;"	c
+p5.Gain.amp	.\PoEmons\libraries\p5.sound.js	/^  p5.Gain.prototype.amp = function (vol, rampTime, tFromNow) {$/;"	m
+p5.Gain.connect	.\PoEmons\libraries\p5.sound.js	/^  p5.Gain.prototype.connect = function (unit) {$/;"	m
+p5.Gain.disconnect	.\PoEmons\libraries\p5.sound.js	/^  p5.Gain.prototype.disconnect = function () {$/;"	m
+p5.Gain.dispose	.\PoEmons\libraries\p5.sound.js	/^  p5.Gain.prototype.dispose = function () {$/;"	m
+p5.Gain.setInput	.\PoEmons\libraries\p5.sound.js	/^  p5.Gain.prototype.setInput = function (src) {$/;"	m
+p5.HighPass	.\PoEmons\libraries\p5.sound.js	/^  p5.HighPass = function () {$/;"	f
+p5.HighPass	.\PoEmons\libraries\p5.sound.js	/^  p5.HighPass.prototype = Object.create(p5.Filter.prototype);$/;"	c
+p5.LowPass	.\PoEmons\libraries\p5.sound.js	/^  p5.LowPass = function () {$/;"	f
+p5.LowPass	.\PoEmons\libraries\p5.sound.js	/^  p5.LowPass.prototype = Object.create(p5.Filter.prototype);$/;"	c
+p5.MediaElement	.\PoEmons\libraries\p5.dom.js	/^  p5.MediaElement = function(elt, pInst) {$/;"	c
+p5.MediaElement._onTimeUpdate	.\PoEmons\libraries\p5.dom.js	/^  p5.MediaElement.prototype._onTimeUpdate = function() {$/;"	m
+p5.MediaElement.addCue	.\PoEmons\libraries\p5.dom.js	/^  p5.MediaElement.prototype.addCue = function(time, callback, val) {$/;"	m
+p5.MediaElement.autoplay	.\PoEmons\libraries\p5.dom.js	/^  p5.MediaElement.prototype.autoplay = function(val) {$/;"	m
+p5.MediaElement.connect	.\PoEmons\libraries\p5.dom.js	/^  p5.MediaElement.prototype.connect = function(obj) {$/;"	m
+p5.MediaElement.copy	.\PoEmons\libraries\p5.dom.js	/^  p5.MediaElement.prototype.copy = function(){$/;"	m
+p5.MediaElement.duration	.\PoEmons\libraries\p5.dom.js	/^  p5.MediaElement.prototype.duration = function() {$/;"	m
+p5.MediaElement.get	.\PoEmons\libraries\p5.dom.js	/^  p5.MediaElement.prototype.get = function(x, y, w, h){$/;"	m
+p5.MediaElement.hideControls	.\PoEmons\libraries\p5.dom.js	/^  p5.MediaElement.prototype.hideControls = function() {$/;"	m
+p5.MediaElement.loadPixels	.\PoEmons\libraries\p5.dom.js	/^  p5.MediaElement.prototype.loadPixels = function() {$/;"	m
+p5.MediaElement.loop	.\PoEmons\libraries\p5.dom.js	/^  p5.MediaElement.prototype.loop = function() {$/;"	m
+p5.MediaElement.mask	.\PoEmons\libraries\p5.dom.js	/^  p5.MediaElement.prototype.mask = function(){$/;"	m
+p5.MediaElement.noLoop	.\PoEmons\libraries\p5.dom.js	/^  p5.MediaElement.prototype.noLoop = function() {$/;"	m
+p5.MediaElement.onended	.\PoEmons\libraries\p5.dom.js	/^  p5.MediaElement.prototype.onended = function(callback) {$/;"	m
+p5.MediaElement.p5	.\PoEmons\libraries\p5.dom.js	/^      p5.Renderer2D.prototype.loadPixels.call(this);$/;"	c
+p5.MediaElement.p5.Renderer2D	.\PoEmons\libraries\p5.dom.js	/^      p5.Renderer2D.prototype.updatePixels.call(this, x, y, w, h);$/;"	c
+p5.MediaElement.pause	.\PoEmons\libraries\p5.dom.js	/^  p5.MediaElement.prototype.pause = function() {$/;"	m
+p5.MediaElement.pixels	.\PoEmons\libraries\p5.dom.js	/^  p5.MediaElement.prototype.pixels = [];$/;"	m
+p5.MediaElement.play	.\PoEmons\libraries\p5.dom.js	/^  p5.MediaElement.prototype.play = function() {$/;"	m
+p5.MediaElement.removeCue	.\PoEmons\libraries\p5.dom.js	/^  p5.MediaElement.prototype.removeCue = function(id) {$/;"	m
+p5.MediaElement.return.Renderer2D	.\PoEmons\libraries\p5.dom.js	/^      return p5.Renderer2D.prototype.get.call(this, x, y, w, h);$/;"	c
+p5.MediaElement.set	.\PoEmons\libraries\p5.dom.js	/^  p5.MediaElement.prototype.set = function(x, y, imgOrCol){$/;"	m
+p5.MediaElement.showControls	.\PoEmons\libraries\p5.dom.js	/^  p5.MediaElement.prototype.showControls = function() {$/;"	m
+p5.MediaElement.speed	.\PoEmons\libraries\p5.dom.js	/^  p5.MediaElement.prototype.speed = function(val) {$/;"	m
+p5.MediaElement.stop	.\PoEmons\libraries\p5.dom.js	/^  p5.MediaElement.prototype.stop = function() {$/;"	m
+p5.MediaElement.time	.\PoEmons\libraries\p5.dom.js	/^  p5.MediaElement.prototype.time = function(val) {$/;"	m
+p5.MediaElement.updatePixels	.\PoEmons\libraries\p5.dom.js	/^  p5.MediaElement.prototype.updatePixels =  function(x, y, w, h){$/;"	m
+p5.MediaElement.volume	.\PoEmons\libraries\p5.dom.js	/^  p5.MediaElement.prototype.volume = function(val) {$/;"	m
+p5.Metro	.\PoEmons\libraries\p5.sound.js	/^  p5.Metro = function () {$/;"	c
+p5.Metro._init	.\PoEmons\libraries\p5.sound.js	/^  p5.Metro.prototype._init = function () {$/;"	m
+p5.Metro.beatLength	.\PoEmons\libraries\p5.sound.js	/^  p5.Metro.prototype.beatLength = function (tatums) {$/;"	m
+p5.Metro.getBPM	.\PoEmons\libraries\p5.sound.js	/^  p5.Metro.prototype.getBPM = function (tempo) {$/;"	m
+p5.Metro.ontick	.\PoEmons\libraries\p5.sound.js	/^  p5.Metro.prototype.ontick = function (tickTime) {$/;"	m
+p5.Metro.pushSync	.\PoEmons\libraries\p5.sound.js	/^  p5.Metro.prototype.pushSync = function (part) {$/;"	m
+p5.Metro.resetSync	.\PoEmons\libraries\p5.sound.js	/^  p5.Metro.prototype.resetSync = function (part) {$/;"	m
+p5.Metro.setBPM	.\PoEmons\libraries\p5.sound.js	/^  p5.Metro.prototype.setBPM = function (bpm, rampTime) {$/;"	m
+p5.Metro.start	.\PoEmons\libraries\p5.sound.js	/^  p5.Metro.prototype.start = function (timeFromNow) {$/;"	m
+p5.Metro.stop	.\PoEmons\libraries\p5.sound.js	/^  p5.Metro.prototype.stop = function (timeFromNow) {$/;"	m
+p5.Metro.tickCallback	.\PoEmons\libraries\p5.sound.js	/^    this.tickCallback = function () {$/;"	m
+p5.Noise	.\PoEmons\libraries\p5.sound.js	/^  p5.Noise = function (type) {$/;"	c
+p5.Noise.dispose	.\PoEmons\libraries\p5.sound.js	/^  p5.Noise.prototype.dispose = function () {$/;"	m
+p5.Noise.getType	.\PoEmons\libraries\p5.sound.js	/^  p5.Noise.prototype.getType = function () {$/;"	m
+p5.Noise.setType	.\PoEmons\libraries\p5.sound.js	/^  p5.Noise.prototype.setType = function (type) {$/;"	m
+p5.Noise.start	.\PoEmons\libraries\p5.sound.js	/^  p5.Noise.prototype.start = function () {$/;"	m
+p5.Noise.stop	.\PoEmons\libraries\p5.sound.js	/^  p5.Noise.prototype.stop = function () {$/;"	m
+p5.Oscillator	.\PoEmons\libraries\p5.sound.js	/^  p5.Oscillator = function (freq, type) {$/;"	c
+p5.Oscillator.add	.\PoEmons\libraries\p5.sound.js	/^  p5.Oscillator.prototype.add = function (num) {$/;"	m
+p5.Oscillator.amp	.\PoEmons\libraries\p5.sound.js	/^  p5.Oscillator.prototype.amp = function (vol, rampTime, tFromNow) {$/;"	m
+p5.Oscillator.connect	.\PoEmons\libraries\p5.sound.js	/^  p5.Oscillator.prototype.connect = function (unit) {$/;"	m
+p5.Oscillator.disconnect	.\PoEmons\libraries\p5.sound.js	/^  p5.Oscillator.prototype.disconnect = function (unit) {$/;"	m
+p5.Oscillator.dispose	.\PoEmons\libraries\p5.sound.js	/^  p5.Oscillator.prototype.dispose = function () {$/;"	m
+p5.Oscillator.fade	.\PoEmons\libraries\p5.sound.js	/^  p5.Oscillator.prototype.fade = p5.Oscillator.prototype.amp;$/;"	m
+p5.Oscillator.freq	.\PoEmons\libraries\p5.sound.js	/^  p5.Oscillator.prototype.freq = function (val, rampTime, tFromNow) {$/;"	m
+p5.Oscillator.getAmp	.\PoEmons\libraries\p5.sound.js	/^  p5.Oscillator.prototype.getAmp = function () {$/;"	m
+p5.Oscillator.getFreq	.\PoEmons\libraries\p5.sound.js	/^  p5.Oscillator.prototype.getFreq = function () {$/;"	m
+p5.Oscillator.getPan	.\PoEmons\libraries\p5.sound.js	/^  p5.Oscillator.prototype.getPan = function () {$/;"	m
+p5.Oscillator.getType	.\PoEmons\libraries\p5.sound.js	/^  p5.Oscillator.prototype.getType = function () {$/;"	m
+p5.Oscillator.mult	.\PoEmons\libraries\p5.sound.js	/^  p5.Oscillator.prototype.mult = function (num) {$/;"	m
+p5.Oscillator.pan	.\PoEmons\libraries\p5.sound.js	/^  p5.Oscillator.prototype.pan = function (pval, tFromNow) {$/;"	m
+p5.Oscillator.phase	.\PoEmons\libraries\p5.sound.js	/^  p5.Oscillator.prototype.phase = function (p) {$/;"	m
+p5.Oscillator.scale	.\PoEmons\libraries\p5.sound.js	/^  p5.Oscillator.prototype.scale = function (inMin, inMax, outMin, outMax) {$/;"	m
+p5.Oscillator.setType	.\PoEmons\libraries\p5.sound.js	/^  p5.Oscillator.prototype.setType = function (type) {$/;"	m
+p5.Oscillator.start	.\PoEmons\libraries\p5.sound.js	/^  p5.Oscillator.prototype.start = function (time, f) {$/;"	m
+p5.Oscillator.stop	.\PoEmons\libraries\p5.sound.js	/^  p5.Oscillator.prototype.stop = function (time) {$/;"	m
+p5.Panner	.\PoEmons\libraries\p5.sound.js	/^    p5.Panner = function (input, output, numInputChannels) {$/;"	c
+p5.Panner.connect	.\PoEmons\libraries\p5.sound.js	/^    p5.Panner.prototype.connect = function (obj) {$/;"	m
+p5.Panner.disconnect	.\PoEmons\libraries\p5.sound.js	/^    p5.Panner.prototype.disconnect = function (obj) {$/;"	m
+p5.Panner.inputChannels	.\PoEmons\libraries\p5.sound.js	/^    p5.Panner.prototype.inputChannels = function (numChannels) {$/;"	m
+p5.Panner.pan	.\PoEmons\libraries\p5.sound.js	/^    p5.Panner.prototype.pan = function (val, tFromNow) {$/;"	m
+p5.Panner3D	.\PoEmons\libraries\p5.sound.js	/^  p5.Panner3D = function (input, output) {$/;"	f
+p5.Part	.\PoEmons\libraries\p5.sound.js	/^  p5.Part = function (steps, bLength) {$/;"	c
+p5.Part.addPhrase	.\PoEmons\libraries\p5.sound.js	/^  p5.Part.prototype.addPhrase = function (name, callback, array) {$/;"	m
+p5.Part.getBPM	.\PoEmons\libraries\p5.sound.js	/^  p5.Part.prototype.getBPM = function () {$/;"	m
+p5.Part.getPhrase	.\PoEmons\libraries\p5.sound.js	/^  p5.Part.prototype.getPhrase = function (name) {$/;"	m
+p5.Part.incrementStep	.\PoEmons\libraries\p5.sound.js	/^  p5.Part.prototype.incrementStep = function (time) {$/;"	m
+p5.Part.loop	.\PoEmons\libraries\p5.sound.js	/^  p5.Part.prototype.loop = function (time) {$/;"	m
+p5.Part.noLoop	.\PoEmons\libraries\p5.sound.js	/^  p5.Part.prototype.noLoop = function () {$/;"	m
+p5.Part.onStep	.\PoEmons\libraries\p5.sound.js	/^  p5.Part.prototype.onStep = function (callback) {$/;"	m
+p5.Part.pause	.\PoEmons\libraries\p5.sound.js	/^  p5.Part.prototype.pause = function (time) {$/;"	m
+p5.Part.removePhrase	.\PoEmons\libraries\p5.sound.js	/^  p5.Part.prototype.removePhrase = function (name) {$/;"	m
+p5.Part.replaceSequence	.\PoEmons\libraries\p5.sound.js	/^  p5.Part.prototype.replaceSequence = function (name, array) {$/;"	m
+p5.Part.setBPM	.\PoEmons\libraries\p5.sound.js	/^  p5.Part.prototype.setBPM = function (tempo, rampTime) {$/;"	m
+p5.Part.start	.\PoEmons\libraries\p5.sound.js	/^  p5.Part.prototype.start = function (time) {$/;"	m
+p5.Part.stop	.\PoEmons\libraries\p5.sound.js	/^  p5.Part.prototype.stop = function (time) {$/;"	m
+p5.Part.this.onended	.\PoEmons\libraries\p5.sound.js	/^    this.onended = function () {$/;"	m
+p5.PeakDetect	.\PoEmons\libraries\p5.sound.js	/^  p5.PeakDetect = function (freq1, freq2, threshold, _framesPerPeak) {$/;"	c
+p5.PeakDetect._onPeak	.\PoEmons\libraries\p5.sound.js	/^    this._onPeak = function () {$/;"	m
+p5.PeakDetect.onPeak	.\PoEmons\libraries\p5.sound.js	/^  p5.PeakDetect.prototype.onPeak = function (callback, val) {$/;"	m
+p5.PeakDetect.self._onPeak	.\PoEmons\libraries\p5.sound.js	/^    self._onPeak = function () {$/;"	f
+p5.PeakDetect.update	.\PoEmons\libraries\p5.sound.js	/^  p5.PeakDetect.prototype.update = function (fftObject) {$/;"	m
+p5.Phrase	.\PoEmons\libraries\p5.sound.js	/^  p5.Phrase = function (name, callback, sequence) {$/;"	c
+p5.Pulse	.\PoEmons\libraries\p5.sound.js	/^  p5.Pulse = function (freq, w) {$/;"	c
+p5.Pulse.freq	.\PoEmons\libraries\p5.sound.js	/^  p5.Pulse.prototype.freq = function (val, rampTime, tFromNow) {$/;"	m
+p5.Pulse.start	.\PoEmons\libraries\p5.sound.js	/^  p5.Pulse.prototype.start = function (f, time) {$/;"	m
+p5.Pulse.stop	.\PoEmons\libraries\p5.sound.js	/^  p5.Pulse.prototype.stop = function (time) {$/;"	m
+p5.Pulse.width	.\PoEmons\libraries\p5.sound.js	/^  p5.Pulse.prototype.width = function (w) {$/;"	m
+p5.Reverb	.\PoEmons\libraries\p5.sound.js	/^  p5.Reverb = function () {$/;"	c
+p5.Reverb._buildImpulse	.\PoEmons\libraries\p5.sound.js	/^  p5.Reverb.prototype._buildImpulse = function () {$/;"	m
+p5.Reverb.amp	.\PoEmons\libraries\p5.sound.js	/^  p5.Reverb.prototype.amp = function (vol, rampTime, tFromNow) {$/;"	m
+p5.Reverb.connect	.\PoEmons\libraries\p5.sound.js	/^  p5.Reverb.prototype.connect = function (unit) {$/;"	m
+p5.Reverb.disconnect	.\PoEmons\libraries\p5.sound.js	/^  p5.Reverb.prototype.disconnect = function () {$/;"	m
+p5.Reverb.dispose	.\PoEmons\libraries\p5.sound.js	/^  p5.Reverb.prototype.dispose = function () {$/;"	m
+p5.Reverb.process	.\PoEmons\libraries\p5.sound.js	/^  p5.Reverb.prototype.process = function (src, seconds, decayRate, reverse) {$/;"	m
+p5.Reverb.set	.\PoEmons\libraries\p5.sound.js	/^  p5.Reverb.prototype.set = function (seconds, decayRate, reverse) {$/;"	m
+p5.SawOsc	.\PoEmons\libraries\p5.sound.js	/^  p5.SawOsc = function (freq) {$/;"	f
+p5.SawOsc	.\PoEmons\libraries\p5.sound.js	/^  p5.SawOsc.prototype = Object.create(p5.Oscillator.prototype);$/;"	c
+p5.Score	.\PoEmons\libraries\p5.sound.js	/^  p5.Score = function () {$/;"	c
+p5.Score.loop	.\PoEmons\libraries\p5.sound.js	/^  p5.Score.prototype.loop = function () {$/;"	m
+p5.Score.noLoop	.\PoEmons\libraries\p5.sound.js	/^  p5.Score.prototype.noLoop = function () {$/;"	m
+p5.Score.onended	.\PoEmons\libraries\p5.sound.js	/^  p5.Score.prototype.onended = function () {$/;"	m
+p5.Score.pause	.\PoEmons\libraries\p5.sound.js	/^  p5.Score.prototype.pause = function () {$/;"	m
+p5.Score.resetPart	.\PoEmons\libraries\p5.sound.js	/^  p5.Score.prototype.resetPart = function (i) {$/;"	m
+p5.Score.resetParts	.\PoEmons\libraries\p5.sound.js	/^  p5.Score.prototype.resetParts = function () {$/;"	m
+p5.Score.setBPM	.\PoEmons\libraries\p5.sound.js	/^  p5.Score.prototype.setBPM = function (bpm, rampTime) {$/;"	m
+p5.Score.start	.\PoEmons\libraries\p5.sound.js	/^  p5.Score.prototype.start = function () {$/;"	m
+p5.Score.stop	.\PoEmons\libraries\p5.sound.js	/^  p5.Score.prototype.stop = function () {$/;"	m
+p5.Score.this.parts	.\PoEmons\libraries\p5.sound.js	/^      this.parts[this.parts.length - 1].onended = function () {$/;"	m
+p5.Signal	.\PoEmons\libraries\p5.sound.js	/^  p5.Signal = function (value) {$/;"	f
+p5.SinOsc	.\PoEmons\libraries\p5.sound.js	/^  p5.SinOsc = function (freq) {$/;"	f
+p5.SinOsc	.\PoEmons\libraries\p5.sound.js	/^  p5.SinOsc.prototype = Object.create(p5.Oscillator.prototype);$/;"	c
+p5.SoundFile	.\PoEmons\libraries\p5.sound.js	/^  p5.SoundFile = function (paths, onload, onerror, whileLoading) {$/;"	c
+p5.SoundFile.Array	.\PoEmons\libraries\p5.sound.js	/^        Array.prototype.reverse.call(this.buffer.getChannelData(i));$/;"	c
+p5.SoundFile._initCounterNode	.\PoEmons\libraries\p5.sound.js	/^  p5.SoundFile.prototype._initCounterNode = function () {$/;"	m
+p5.SoundFile._initSourceNode	.\PoEmons\libraries\p5.sound.js	/^  p5.SoundFile.prototype._initSourceNode = function () {$/;"	m
+p5.SoundFile._onTimeUpdate	.\PoEmons\libraries\p5.sound.js	/^  p5.SoundFile.prototype._onTimeUpdate = function (position) {$/;"	m
+p5.SoundFile._onended	.\PoEmons\libraries\p5.sound.js	/^    this._onended = function () {$/;"	m
+p5.SoundFile._updateProgress	.\PoEmons\libraries\p5.sound.js	/^  p5.SoundFile.prototype._updateProgress = function (evt) {$/;"	m
+p5.SoundFile.add	.\PoEmons\libraries\p5.sound.js	/^  p5.SoundFile.prototype.add = function () {$/;"	m
+p5.SoundFile.addCue	.\PoEmons\libraries\p5.sound.js	/^  p5.SoundFile.prototype.addCue = function (time, callback, val) {$/;"	m
+p5.SoundFile.amp	.\PoEmons\libraries\p5.sound.js	/^  p5.SoundFile.prototype.amp = p5.SoundFile.prototype.setVolume;$/;"	m
+p5.SoundFile.channels	.\PoEmons\libraries\p5.sound.js	/^  p5.SoundFile.prototype.channels = function () {$/;"	m
+p5.SoundFile.clearCues	.\PoEmons\libraries\p5.sound.js	/^  p5.SoundFile.prototype.clearCues = function () {$/;"	m
+p5.SoundFile.connect	.\PoEmons\libraries\p5.sound.js	/^  p5.SoundFile.prototype.connect = function (unit) {$/;"	m
+p5.SoundFile.currentTime	.\PoEmons\libraries\p5.sound.js	/^  p5.SoundFile.prototype.currentTime = function () {$/;"	m
+p5.SoundFile.disconnect	.\PoEmons\libraries\p5.sound.js	/^  p5.SoundFile.prototype.disconnect = function () {$/;"	m
+p5.SoundFile.dispose	.\PoEmons\libraries\p5.sound.js	/^  p5.SoundFile.prototype.dispose = function () {$/;"	m
+p5.SoundFile.duration	.\PoEmons\libraries\p5.sound.js	/^  p5.SoundFile.prototype.duration = function () {$/;"	m
+p5.SoundFile.fade	.\PoEmons\libraries\p5.sound.js	/^  p5.SoundFile.prototype.fade = p5.SoundFile.prototype.setVolume;$/;"	m
+p5.SoundFile.frames	.\PoEmons\libraries\p5.sound.js	/^  p5.SoundFile.prototype.frames = function () {$/;"	m
+p5.SoundFile.getLevel	.\PoEmons\libraries\p5.sound.js	/^  p5.SoundFile.prototype.getLevel = function (smoothing) {$/;"	m
+p5.SoundFile.getPan	.\PoEmons\libraries\p5.sound.js	/^  p5.SoundFile.prototype.getPan = function () {$/;"	m
+p5.SoundFile.getPeaks	.\PoEmons\libraries\p5.sound.js	/^  p5.SoundFile.prototype.getPeaks = function (length) {$/;"	m
+p5.SoundFile.getPlaybackRate	.\PoEmons\libraries\p5.sound.js	/^  p5.SoundFile.prototype.getPlaybackRate = function () {$/;"	m
+p5.SoundFile.getVolume	.\PoEmons\libraries\p5.sound.js	/^  p5.SoundFile.prototype.getVolume = function () {$/;"	m
+p5.SoundFile.isLoaded	.\PoEmons\libraries\p5.sound.js	/^  p5.SoundFile.prototype.isLoaded = function () {$/;"	m
+p5.SoundFile.isLooping	.\PoEmons\libraries\p5.sound.js	/^  p5.SoundFile.prototype.isLooping = function () {$/;"	m
+p5.SoundFile.isPaused	.\PoEmons\libraries\p5.sound.js	/^  p5.SoundFile.prototype.isPaused = function () {$/;"	m
+p5.SoundFile.isPlaying	.\PoEmons\libraries\p5.sound.js	/^  p5.SoundFile.prototype.isPlaying = function () {$/;"	m
+p5.SoundFile.jump	.\PoEmons\libraries\p5.sound.js	/^  p5.SoundFile.prototype.jump = function (cueTime, duration) {$/;"	m
+p5.SoundFile.load	.\PoEmons\libraries\p5.sound.js	/^  p5.SoundFile.prototype.load = function (callback, errorCallback) {$/;"	m
+p5.SoundFile.loop	.\PoEmons\libraries\p5.sound.js	/^  p5.SoundFile.prototype.loop = function (startTime, rate, amp, loopStart, duration) {$/;"	m
+p5.SoundFile.onended	.\PoEmons\libraries\p5.sound.js	/^  p5.SoundFile.prototype.onended = function (callback) {$/;"	m
+p5.SoundFile.pan	.\PoEmons\libraries\p5.sound.js	/^  p5.SoundFile.prototype.pan = function (pval, tFromNow) {$/;"	m
+p5.SoundFile.pause	.\PoEmons\libraries\p5.sound.js	/^  p5.SoundFile.prototype.pause = function (time) {$/;"	m
+p5.SoundFile.play	.\PoEmons\libraries\p5.sound.js	/^  p5.SoundFile.prototype.play = function (time, rate, amp, _cueStart, duration) {$/;"	m
+p5.SoundFile.playMode	.\PoEmons\libraries\p5.sound.js	/^  p5.SoundFile.prototype.playMode = function (str) {$/;"	m
+p5.SoundFile.processPeaks	.\PoEmons\libraries\p5.sound.js	/^  p5.SoundFile.prototype.processPeaks = function (callback, _initThreshold, _minThreshold, _minPeaks) {$/;"	m
+p5.SoundFile.rate	.\PoEmons\libraries\p5.sound.js	/^  p5.SoundFile.prototype.rate = function (playbackRate) {$/;"	m
+p5.SoundFile.removeCue	.\PoEmons\libraries\p5.sound.js	/^  p5.SoundFile.prototype.removeCue = function (id) {$/;"	m
+p5.SoundFile.reverseBuffer	.\PoEmons\libraries\p5.sound.js	/^  p5.SoundFile.prototype.reverseBuffer = function () {$/;"	m
+p5.SoundFile.sampleRate	.\PoEmons\libraries\p5.sound.js	/^  p5.SoundFile.prototype.sampleRate = function () {$/;"	m
+p5.SoundFile.setBuffer	.\PoEmons\libraries\p5.sound.js	/^  p5.SoundFile.prototype.setBuffer = function (buf) {$/;"	m
+p5.SoundFile.setLoop	.\PoEmons\libraries\p5.sound.js	/^  p5.SoundFile.prototype.setLoop = function (bool) {$/;"	m
+p5.SoundFile.setPath	.\PoEmons\libraries\p5.sound.js	/^  p5.SoundFile.prototype.setPath = function (p, callback) {$/;"	m
+p5.SoundFile.setPitch	.\PoEmons\libraries\p5.sound.js	/^  p5.SoundFile.prototype.setPitch = function (num) {$/;"	m
+p5.SoundFile.setVolume	.\PoEmons\libraries\p5.sound.js	/^  p5.SoundFile.prototype.setVolume = function (vol, rampTime, tFromNow) {$/;"	m
+p5.SoundFile.stop	.\PoEmons\libraries\p5.sound.js	/^  p5.SoundFile.prototype.stop = function (timeFromNow) {$/;"	m
+p5.SoundFile.stopAll	.\PoEmons\libraries\p5.sound.js	/^  p5.SoundFile.prototype.stopAll = function (_time) {$/;"	m
+p5.SoundFile.this.bufferSourceNodes	.\PoEmons\libraries\p5.sound.js	/^            this.bufferSourceNodes[i].onended = function () {$/;"	m
+p5.SoundRecorder	.\PoEmons\libraries\p5.sound.js	/^  p5.SoundRecorder = function () {$/;"	c
+p5.SoundRecorder._audioprocess	.\PoEmons\libraries\p5.sound.js	/^  p5.SoundRecorder.prototype._audioprocess = function (event) {$/;"	m
+p5.SoundRecorder._callback	.\PoEmons\libraries\p5.sound.js	/^    this._callback = function () {$/;"	m
+p5.SoundRecorder._clear	.\PoEmons\libraries\p5.sound.js	/^  p5.SoundRecorder.prototype._clear = function () {$/;"	m
+p5.SoundRecorder._getBuffer	.\PoEmons\libraries\p5.sound.js	/^  p5.SoundRecorder.prototype._getBuffer = function () {$/;"	m
+p5.SoundRecorder._mergeBuffers	.\PoEmons\libraries\p5.sound.js	/^  p5.SoundRecorder.prototype._mergeBuffers = function (channelBuffer) {$/;"	m
+p5.SoundRecorder.dispose	.\PoEmons\libraries\p5.sound.js	/^  p5.SoundRecorder.prototype.dispose = function () {$/;"	m
+p5.SoundRecorder.p5sound.this._callback	.\PoEmons\libraries\p5.sound.js	/^    this._callback = function () {$/;"	m
+p5.SoundRecorder.record	.\PoEmons\libraries\p5.sound.js	/^  p5.SoundRecorder.prototype.record = function (sFile, duration, callback) {$/;"	m
+p5.SoundRecorder.setInput	.\PoEmons\libraries\p5.sound.js	/^  p5.SoundRecorder.prototype.setInput = function (unit) {$/;"	m
+p5.SoundRecorder.stop	.\PoEmons\libraries\p5.sound.js	/^  p5.SoundRecorder.prototype.stop = function () {$/;"	m
+p5.SoundRecorder.this._callback	.\PoEmons\libraries\p5.sound.js	/^      this._callback = function () {$/;"	m
+p5.SqrOsc	.\PoEmons\libraries\p5.sound.js	/^  p5.SqrOsc = function (freq) {$/;"	f
+p5.SqrOsc	.\PoEmons\libraries\p5.sound.js	/^  p5.SqrOsc.prototype = Object.create(p5.Oscillator.prototype);$/;"	c
+p5.TriOsc	.\PoEmons\libraries\p5.sound.js	/^  p5.TriOsc = function (freq) {$/;"	f
+p5.TriOsc	.\PoEmons\libraries\p5.sound.js	/^  p5.TriOsc.prototype = Object.create(p5.Oscillator.prototype);$/;"	c
+p5.VIDEO	.\PoEmons\libraries\p5.dom.js	/^  p5.prototype.VIDEO = 'video';$/;"	m
+p5._checkFileFormats	.\PoEmons\libraries\p5.sound.js	/^  p5.prototype._checkFileFormats = function (paths) {$/;"	m
+p5._mathChain	.\PoEmons\libraries\p5.sound.js	/^  p5.prototype._mathChain = function (o, math, thisChain, nextChain, type) {$/;"	m
+p5.createA	.\PoEmons\libraries\p5.dom.js	/^  p5.prototype.createA = function(href, html, target) {$/;"	m
+p5.createAudio	.\PoEmons\libraries\p5.dom.js	/^  p5.prototype.createAudio = function(src, callback) {$/;"	m
+p5.createButton	.\PoEmons\libraries\p5.dom.js	/^  p5.prototype.createButton = function(label, value) {$/;"	m
+p5.createCapture	.\PoEmons\libraries\p5.dom.js	/^  p5.prototype.createCapture = function() {$/;"	m
+p5.createCheckbox	.\PoEmons\libraries\p5.dom.js	/^  p5.prototype.createCheckbox = function() {$/;"	m
+p5.createConvolver	.\PoEmons\libraries\p5.sound.js	/^  p5.prototype.createConvolver = function (path, callback, errorCallback) {$/;"	m
+p5.createElement	.\PoEmons\libraries\p5.dom.js	/^  p5.prototype.createElement = function(tag, content) {$/;"	m
+p5.createFileInput	.\PoEmons\libraries\p5.dom.js	/^  p5.prototype.createFileInput = function(callback, multiple) {$/;"	m
+p5.createImg	.\PoEmons\libraries\p5.dom.js	/^  p5.prototype.createImg = function() {$/;"	m
+p5.createInput	.\PoEmons\libraries\p5.dom.js	/^  p5.prototype.createInput = function(value) {$/;"	m
+p5.createRadio	.\PoEmons\libraries\p5.dom.js	/^  p5.prototype.createRadio = function() {$/;"	m
+p5.createSelect	.\PoEmons\libraries\p5.dom.js	/^  p5.prototype.createSelect = function(mult) {$/;"	m
+p5.createSlider	.\PoEmons\libraries\p5.dom.js	/^  p5.prototype.createSlider = function(min, max, value, step) {$/;"	m
+p5.createVideo	.\PoEmons\libraries\p5.dom.js	/^  p5.prototype.createVideo = function(src, callback) {$/;"	m
+p5.disposeSound	.\PoEmons\libraries\p5.sound.js	/^  p5.prototype.disposeSound = function () {$/;"	m
+p5.freqToMidi	.\PoEmons\libraries\p5.sound.js	/^  p5.prototype.freqToMidi = function (f) {$/;"	m
+p5.getAudioContext	.\PoEmons\libraries\p5.sound.js	/^  p5.prototype.getAudioContext = function () {$/;"	m
+p5.getMasterVolume	.\PoEmons\libraries\p5.sound.js	/^  p5.prototype.getMasterVolume = function () {$/;"	m
+p5.isFileSupported	.\PoEmons\libraries\p5.sound.js	/^  p5.prototype.isFileSupported = function (extension) {$/;"	m
+p5.isSupported	.\PoEmons\libraries\p5.sound.js	/^  p5.prototype.isSupported = function () {$/;"	m
+p5.loadSound	.\PoEmons\libraries\p5.sound.js	/^  p5.prototype.loadSound = function (path, callback, onerror, whileLoading) {$/;"	m
+p5.masterVolume	.\PoEmons\libraries\p5.sound.js	/^  p5.prototype.masterVolume = function (vol, rampTime, tFromNow) {$/;"	m
+p5.midiToFreq	.\PoEmons\libraries\p5.sound.js	/^  p5.prototype.midiToFreq = function (m) {$/;"	m
+p5.registerMethod	.\PoEmons\libraries\p5.sound.js	/^  p5.prototype.registerMethod('remove', p5.prototype.disposeSound);$/;"	m
+p5.registerPreloadMethod	.\PoEmons\libraries\p5.sound.js	/^  p5.prototype.registerPreloadMethod('createConvolver', p5.prototype);$/;"	m
+p5.registerPreloadMethod	.\PoEmons\libraries\p5.sound.js	/^  p5.prototype.registerPreloadMethod('loadSound', p5.prototype);$/;"	m
+p5.removeElements	.\PoEmons\libraries\p5.dom.js	/^  p5.prototype.removeElements = function (e) {$/;"	m
+p5.sampleRate	.\PoEmons\libraries\p5.sound.js	/^  p5.prototype.sampleRate = function () {$/;"	m
+p5.saveSound	.\PoEmons\libraries\p5.sound.js	/^  p5.prototype.saveSound = function (soundFile, name) {$/;"	m
+p5.selectAll	.\PoEmons\libraries\p5.dom.js	/^  p5.prototype.selectAll = function (e, p) {$/;"	m
+p5.setBPM	.\PoEmons\libraries\p5.sound.js	/^  p5.prototype.setBPM = function (BPM, rampTime) {$/;"	m
+p5.soundFormats	.\PoEmons\libraries\p5.sound.js	/^  p5.prototype.soundFormats = function () {$/;"	m
+p5.soundOut	.\PoEmons\libraries\p5.sound.js	/^  p5.prototype.soundOut = p5.soundOut = p5sound;$/;"	m
+p5.var.setAttrs	.\PoEmons\libraries\p5.dom.js	/^    var setAttrs = function(){$/;"	f
+p5sound.p5.Part.callback	.\PoEmons\libraries\p5.sound.js	/^    this.callback = function () {$/;"	m
+p5sound.this._whileLoading	.\PoEmons\libraries\p5.sound.js	/^      this._whileLoading = function () {$/;"	m
+panner	.\PoEmons\libraries\p5.sound.js	/^panner = function () {$/;"	f
+panner	.\PoEmons\libraries\p5.sound.js	/^var panner;$/;"	v
+panner3D.pan	.\PoEmons\libraries\p5.sound.js	/^    panner3D.pan = function (xVal, yVal, zVal) {$/;"	f
+peakdetect	.\PoEmons\libraries\p5.sound.js	/^peakdetect = function () {$/;"	f
+peakdetect	.\PoEmons\libraries\p5.sound.js	/^var peakdetect;$/;"	v
+playerLevels	.\PoEmons\xptable.js	/^var playerLevels = [];$/;"	v
+pulse	.\PoEmons\libraries\p5.sound.js	/^pulse = function () {$/;"	f
+pulse	.\PoEmons\libraries\p5.sound.js	/^var pulse;$/;"	v
+pulse.createDCOffset	.\PoEmons\libraries\p5.sound.js	/^  function createDCOffset() {$/;"	f
+reader.onerror	.\PoEmons\libraries\p5.sound.js	/^      reader.onerror = function (e) {$/;"	f
+reader.onload	.\PoEmons\libraries\p5.sound.js	/^      reader.onload = function () {$/;"	f
+request.onerror	.\PoEmons\libraries\p5.sound.js	/^      request.onerror = function (e) {$/;"	f
+request.onload	.\PoEmons\libraries\p5.sound.js	/^      request.onload = function () {$/;"	f
+reverb	.\PoEmons\libraries\p5.sound.js	/^reverb = function () {$/;"	f
+reverb	.\PoEmons\libraries\p5.sound.js	/^var reverb;$/;"	v
+safeZone	.\PoEmons\functions.js	/^function safeZone (parameterLevel) {$/;"	f
+select	.\PoEmons\libraries\p5.dom.js	/^  p5.prototype.select = function (e, p) {$/;"	m
+self	.\PoEmons\libraries\p5.dom.js	/^    self._onended = function() {};$/;"	m
+self	.\PoEmons\libraries\p5.dom.js	/^    self.elt.onended = function() {$/;"	m
+self._scopeNode.onaudioprocess	.\PoEmons\libraries\p5.sound.js	/^    self._scopeNode.onaudioprocess = function (processEvent) {$/;"	f
+self.checked	.\PoEmons\libraries\p5.dom.js	/^    self.checked = function(){$/;"	f
+self.option	.\PoEmons\libraries\p5.dom.js	/^    self.option = function(name, value){$/;"	f
+self.selected	.\PoEmons\libraries\p5.dom.js	/^    self.selected = function(value){$/;"	f
+self.value	.\PoEmons\libraries\p5.dom.js	/^    self.value = function(){$/;"	f
+setup	.\PoEmons\sketch.js	/^function setup() {$/;"	f
+signal	.\PoEmons\libraries\p5.sound.js	/^signal = function () {$/;"	f
+signal	.\PoEmons\libraries\p5.sound.js	/^var signal;$/;"	v
+sndcore	.\PoEmons\libraries\p5.sound.js	/^sndcore = function () {$/;"	f
+sndcore.fixSetTarget	.\PoEmons\libraries\p5.sound.js	/^    function fixSetTarget(param) {$/;"	f
+soundRecorder	.\PoEmons\libraries\p5.sound.js	/^soundRecorder = function () {$/;"	f
+soundRecorder	.\PoEmons\libraries\p5.sound.js	/^var soundRecorder;$/;"	v
+soundRecorder.interleave	.\PoEmons\libraries\p5.sound.js	/^  function interleave(leftChannel, rightChannel) {$/;"	f
+soundRecorder.writeUTFBytes	.\PoEmons\libraries\p5.sound.js	/^  function writeUTFBytes(view, offset, string) {$/;"	f
+soundfile	.\PoEmons\libraries\p5.sound.js	/^soundfile = function () {$/;"	f
+soundfile	.\PoEmons\libraries\p5.sound.js	/^var soundfile;$/;"	v
+soundfile.Cue	.\PoEmons\libraries\p5.sound.js	/^  var Cue = function (callback, time, id, val) {$/;"	c
+soundfile.Peak	.\PoEmons\libraries\p5.sound.js	/^  var Peak = function (amp, i) {$/;"	c
+soundfile._createCounterBuffer	.\PoEmons\libraries\p5.sound.js	/^  var _createCounterBuffer = function (buffer) {$/;"	f
+soundfile.countIntervalsBetweenNearbyPeaks	.\PoEmons\libraries\p5.sound.js	/^  function countIntervalsBetweenNearbyPeaks(peaksObj) {$/;"	f
+soundfile.getPeaksAtThreshold	.\PoEmons\libraries\p5.sound.js	/^  function getPeaksAtThreshold(data, threshold) {$/;"	f
+soundfile.getPeaksAtTopTempo	.\PoEmons\libraries\p5.sound.js	/^  function getPeaksAtTopTempo(peaksObj, tempo, sampleRate, bpmVariance) {$/;"	f
+soundfile.groupNeighborsByTempo	.\PoEmons\libraries\p5.sound.js	/^  function groupNeighborsByTempo(intervalCounts, sampleRate) {$/;"	f
+soundfile.mapTempo	.\PoEmons\libraries\p5.sound.js	/^  function mapTempo(theoreticalTempo) {$/;"	f
+src_app	.\PoEmons\libraries\p5.sound.js	/^src_app = function () {$/;"	f
+src_app	.\PoEmons\libraries\p5.sound.js	/^var src_app;$/;"	v
+this._callback	.\PoEmons\libraries\p5.sound.js	/^      this._callback = function () {$/;"	m
+this.parts	.\PoEmons\libraries\p5.sound.js	/^      this.parts[i].onended = function () {$/;"	m
+this.value	.\PoEmons\libraries\p5.dom.js	/^    this.value = function(val){$/;"	m
+timeArray	.\PoEmons\sketch.js	/^var timeArray;$/;"	v
+toNotationHelper	.\PoEmons\libraries\p5.sound.js	/^  function toNotationHelper(time, bpm, timeSignature, testNotations) {$/;"	f
+var.Cue	.\PoEmons\libraries\p5.dom.js	/^  var Cue = function(callback, time, id, val) {$/;"	c
+var.callbackHandler	.\PoEmons\libraries\p5.dom.js	/^      var callbackHandler = function() {$/;"	f
+var.clearOnEnd	.\PoEmons\libraries\p5.sound.js	/^      var clearOnEnd = function (e) {$/;"	m
+var.startIOS	.\PoEmons\libraries\p5.sound.js	/^    var startIOS = function () {$/;"	f
+wrapElement	.\PoEmons\libraries\p5.dom.js	/^  function wrapElement(elt) {$/;"	f
+xpMultiplierHigh	.\PoEmons\functions.js	/^function xpMultiplierHigh (parLevel,parZone) {$/;"	f
+xpMultiplierLow	.\PoEmons\functions.js	/^function xpMultiplierLow (parLevel,parZone) {$/;"	f
+xpToGain	.\PoEmons\xptable.js	/^var xpToGain = [$/;"	v
